@@ -1,0 +1,45 @@
+{
+  "mercado": "Over_Under_2.5_goles",
+  "target": "target_ou25",
+  "n_train": 37202,
+  "n_test": 6441,
+  "modelo_ingenuo": {
+    "accuracy": 0.46918180406769133
+  },
+  "baseline_logreg": {
+    "accuracy": 0.5640428504890544,
+    "log_loss": 0.6790330497777589,
+    "brier": 0.24304667307017777,
+    "auc": 0.5860380607532671
+  },
+  "xgboost_sin_calibrar": {
+    "accuracy": 0.5721161310355535,
+    "log_loss": 0.6762959957122803,
+    "brier": 0.2418120950460434,
+    "auc": 0.5881137525359996
+  },
+  "xgboost_calibrado": {
+    "accuracy": 0.5711845986648036,
+    "log_loss": 0.6777513955952152,
+    "brier": 0.2425387938959198,
+    "auc": 0.5809660132993709
+  },
+  "evaluacion_partidos_neutrales": {
+    "n_partidos": 1961,
+    "accuracy": 0.5757266700662927,
+    "log_loss": 0.6777761211611762,
+    "auc": 0.5736568037868068
+  },
+  "top_10_features": {
+    "dog_form_conceded": 0.15130986273288727,
+    "fav_form_scored": 0.06838419288396835,
+    "dog_form_scored": 0.04495936632156372,
+    "fav_form_conceded": 0.03695763275027275,
+    "fav_dog_elo_diff": 0.03560414910316467,
+    "fav_avg_passing": 0.03280236944556236,
+    "is_continental": 0.03233315795660019,
+    "dog_elo": 0.03168710321187973,
+    "fav_avg_attack": 0.029071422293782234,
+    "is_neutral": 0.028885234147310257
+  }
+}

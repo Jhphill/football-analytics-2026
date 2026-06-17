@@ -1,0 +1,997 @@
+{
+  "Brazil": {
+    "Vinicius Junior": {
+      "posicion": "FWD",
+      "importancia": 0.95,
+      "titular_habitual": true
+    },
+    "Raphinha": {
+      "posicion": "FWD",
+      "importancia": 0.85,
+      "titular_habitual": true
+    },
+    "Casemiro": {
+      "posicion": "MID",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Bruno Guimaraes": {
+      "posicion": "MID",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Lucas Paqueta": {
+      "posicion": "MID",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Alisson": {
+      "posicion": "GK",
+      "importancia": 0.85,
+      "titular_habitual": true
+    },
+    "Marquinhos": {
+      "posicion": "DEF",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Gabriel Magalhaes": {
+      "posicion": "DEF",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Douglas Santos": {
+      "posicion": "DEF",
+      "importancia": 0.68,
+      "titular_habitual": true
+    },
+    "Roger Ibanez": {
+      "posicion": "DEF",
+      "importancia": 0.68,
+      "titular_habitual": true
+    },
+    "Igor Thiago": {
+      "posicion": "FWD",
+      "importancia": 0.7,
+      "titular_habitual": true,
+      "nota": "titular en el debut vs Marruecos por delante de Matheus Cunha"
+    },
+    "Neymar": {
+      "posicion": "FWD",
+      "importancia": 0.85,
+      "titular_habitual": false,
+      "nota": "convocado tras 2 anos fuera por lesiones; no es titular fijo segun Ancelotti"
+    }
+  },
+  "Argentina": {
+    "Lionel Messi": {
+      "posicion": "FWD",
+      "importancia": 0.95,
+      "titular_habitual": true
+    },
+    "Julian Alvarez": {
+      "posicion": "FWD",
+      "importancia": 0.85,
+      "titular_habitual": true
+    },
+    "Lautaro Martinez": {
+      "posicion": "FWD",
+      "importancia": 0.85,
+      "titular_habitual": true
+    },
+    "Emiliano Martinez": {
+      "posicion": "GK",
+      "importancia": 0.85,
+      "titular_habitual": true
+    },
+    "Rodrigo De Paul": {
+      "posicion": "MID",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Enzo Fernandez": {
+      "posicion": "MID",
+      "importancia": 0.8,
+      "titular_habitual": true
+    },
+    "Alexis Mac Allister": {
+      "posicion": "MID",
+      "importancia": 0.8,
+      "titular_habitual": true
+    },
+    "Leandro Paredes": {
+      "posicion": "MID",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Nicolas Otamendi": {
+      "posicion": "DEF",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Lisandro Martinez": {
+      "posicion": "DEF",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Nahuel Molina": {
+      "posicion": "DEF",
+      "importancia": 0.7,
+      "titular_habitual": true
+    },
+    "Cristian Romero": {
+      "posicion": "DEF",
+      "importancia": 0.78,
+      "titular_habitual": true,
+      "nota": "lesion leve de rodilla (LCI grado 1), se espera llegue a tiempo al Mundial"
+    }
+  },
+  "France": {
+    "Kylian Mbappe": {
+      "posicion": "FWD",
+      "importancia": 0.97,
+      "titular_habitual": true,
+      "nota": "capitan de Francia"
+    },
+    "Ousmane Dembele": {
+      "posicion": "FWD",
+      "importancia": 0.88,
+      "titular_habitual": true,
+      "nota": "ultimo ganador del Balon de Oro"
+    },
+    "Michael Olise": {
+      "posicion": "MID",
+      "importancia": 0.8,
+      "titular_habitual": true
+    },
+    "Aurelien Tchouameni": {
+      "posicion": "MID",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Mike Maignan": {
+      "posicion": "GK",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "William Saliba": {
+      "posicion": "DEF",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Dayot Upamecano": {
+      "posicion": "DEF",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Jules Kounde": {
+      "posicion": "DEF",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Theo Hernandez": {
+      "posicion": "DEF",
+      "importancia": 0.73,
+      "titular_habitual": true
+    },
+    "Marcus Thuram": {
+      "posicion": "FWD",
+      "importancia": 0.73,
+      "titular_habitual": false,
+      "nota": "sumado de ultimo momento a la convocatoria"
+    },
+    "Desire Doue": {
+      "posicion": "FWD",
+      "importancia": 0.75,
+      "titular_habitual": false,
+      "nota": "Mejor Jugador Joven del Mundial de Clubes 2025"
+    },
+    "Hugo Ekitike": {
+      "posicion": "FWD",
+      "importancia": 0.7,
+      "titular_habitual": false,
+      "nota": "BAJA por lesion, se esperaba que fuera titular"
+    }
+  },
+  "Spain": {
+    "Lamine Yamal": {
+      "posicion": "FWD",
+      "importancia": 0.95,
+      "titular_habitual": true,
+      "nota": "duda/lesion reciente (pubis) segun reportes; situacion a confirmar dia a dia"
+    },
+    "Pedri": {
+      "posicion": "MID",
+      "importancia": 0.9,
+      "titular_habitual": true,
+      "nota": "duda por lesion segun reportes recientes"
+    },
+    "Rodri": {
+      "posicion": "MID",
+      "importancia": 0.88,
+      "titular_habitual": true,
+      "nota": "viene de lesion muscular en isquiotibial"
+    },
+    "Nico Williams": {
+      "posicion": "FWD",
+      "importancia": 0.8,
+      "titular_habitual": true,
+      "nota": "viene de lesion"
+    },
+    "Mikel Oyarzabal": {
+      "posicion": "FWD",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Unai Simon": {
+      "posicion": "GK",
+      "importancia": 0.8,
+      "titular_habitual": true
+    },
+    "Marc Cucurella": {
+      "posicion": "DEF",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Dani Olmo": {
+      "posicion": "MID",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Pau Cubarsi": {
+      "posicion": "DEF",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Aymeric Laporte": {
+      "posicion": "DEF",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Marcos Llorente": {
+      "posicion": "DEF",
+      "importancia": 0.68,
+      "titular_habitual": true
+    },
+    "Fabian Ruiz": {
+      "posicion": "MID",
+      "importancia": 0.72,
+      "titular_habitual": true,
+      "nota": "duda por lesion segun reportes recientes"
+    },
+    "Ferran Torres": {
+      "posicion": "FWD",
+      "importancia": 0.7,
+      "titular_habitual": true
+    },
+    "Alvaro Morata": {
+      "posicion": "FWD",
+      "importancia": 0.65,
+      "titular_habitual": false,
+      "nota": "fuera por motivos tecnicos en convocatorias recientes"
+    }
+  },
+  "Netherlands": {
+    "Virgil van Dijk": {
+      "posicion": "DEF",
+      "importancia": 0.9,
+      "titular_habitual": true
+    },
+    "Jan Paul van Hecke": {
+      "posicion": "DEF",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Micky van de Ven": {
+      "posicion": "DEF",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Denzel Dumfries": {
+      "posicion": "DEF",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Ryan Gravenberch": {
+      "posicion": "MID",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Tijjani Reijnders": {
+      "posicion": "MID",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Frenkie de Jong": {
+      "posicion": "MID",
+      "importancia": 0.82,
+      "titular_habitual": true
+    },
+    "Cody Gakpo": {
+      "posicion": "FWD",
+      "importancia": 0.82,
+      "titular_habitual": true
+    },
+    "Donyell Malen": {
+      "posicion": "FWD",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Crysencio Summerville": {
+      "posicion": "FWD",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Bart Verbruggen": {
+      "posicion": "GK",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Memphis Depay": {
+      "posicion": "FWD",
+      "importancia": 0.78,
+      "titular_habitual": false,
+      "nota": "no en el XI titular del debut, pero jugador de relevancia mediatica"
+    },
+    "Jurrien Timber": {
+      "posicion": "DEF",
+      "importancia": 0.78,
+      "titular_habitual": false,
+      "nota": "BAJA confirmada para el Mundial 2026 por lesion"
+    }
+  },
+  "England": {
+    "Harry Kane": {
+      "posicion": "FWD",
+      "importancia": 0.95,
+      "titular_habitual": true
+    },
+    "Jude Bellingham": {
+      "posicion": "MID",
+      "importancia": 0.95,
+      "titular_habitual": true
+    },
+    "Bukayo Saka": {
+      "posicion": "FWD",
+      "importancia": 0.85,
+      "titular_habitual": true
+    },
+    "Phil Foden": {
+      "posicion": "MID",
+      "importancia": 0.8,
+      "titular_habitual": true
+    },
+    "Declan Rice": {
+      "posicion": "MID",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Jordan Pickford": {
+      "posicion": "GK",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Reece James": {
+      "posicion": "DEF",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Trent Alexander-Arnold": {
+      "posicion": "DEF",
+      "importancia": 0.7,
+      "titular_habitual": false,
+      "nota": "NO convocado al Mundial 2026"
+    },
+    "Harry Maguire": {
+      "posicion": "DEF",
+      "importancia": 0.65,
+      "titular_habitual": false,
+      "nota": "NO convocado al Mundial 2026"
+    }
+  },
+  "Germany": {
+    "Jamal Musiala": {
+      "posicion": "MID",
+      "importancia": 0.88,
+      "titular_habitual": true
+    },
+    "Florian Wirtz": {
+      "posicion": "MID",
+      "importancia": 0.88,
+      "titular_habitual": true
+    },
+    "Kai Havertz": {
+      "posicion": "FWD",
+      "importancia": 0.82,
+      "titular_habitual": true
+    },
+    "Joshua Kimmich": {
+      "posicion": "MID",
+      "importancia": 0.85,
+      "titular_habitual": true
+    },
+    "Antonio Rudiger": {
+      "posicion": "DEF",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Manuel Neuer": {
+      "posicion": "GK",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Nico Schlotterbeck": {
+      "posicion": "DEF",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Jonathan Tah": {
+      "posicion": "DEF",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Deniz Undav": {
+      "posicion": "FWD",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Nick Woltemade": {
+      "posicion": "FWD",
+      "importancia": 0.73,
+      "titular_habitual": true
+    },
+    "Leroy Sane": {
+      "posicion": "FWD",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Nathanael Brown": {
+      "posicion": "DEF",
+      "importancia": 0.65,
+      "titular_habitual": true
+    }
+  },
+  "USA": {
+    "Christian Pulisic": {
+      "posicion": "MID",
+      "importancia": 0.85,
+      "titular_habitual": true
+    },
+    "Folarin Balogun": {
+      "posicion": "FWD",
+      "importancia": 0.7,
+      "titular_habitual": true
+    },
+    "Weston McKennie": {
+      "posicion": "MID",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Tyler Adams": {
+      "posicion": "MID",
+      "importancia": 0.7,
+      "titular_habitual": true
+    },
+    "Matt Turner": {
+      "posicion": "GK",
+      "importancia": 0.65,
+      "titular_habitual": true
+    }
+  },
+  "Mexico": {
+    "Santiago Gimenez": {
+      "posicion": "FWD",
+      "importancia": 0.8,
+      "titular_habitual": true
+    },
+    "Edson Alvarez": {
+      "posicion": "MID",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Hirving Lozano": {
+      "posicion": "FWD",
+      "importancia": 0.7,
+      "titular_habitual": true
+    },
+    "Cesar Montes": {
+      "posicion": "DEF",
+      "importancia": 0.65,
+      "titular_habitual": true
+    },
+    "Luis Malagon": {
+      "posicion": "GK",
+      "importancia": 0.65,
+      "titular_habitual": false,
+      "nota": "BAJA confirmada: rotura de tendon de Aquiles, apuntaba a ser portero titular"
+    }
+  },
+  "Morocco": {
+    "Achraf Hakimi": {
+      "posicion": "DEF",
+      "importancia": 0.9,
+      "titular_habitual": true
+    },
+    "Yassine Bounou": {
+      "posicion": "GK",
+      "importancia": 0.82,
+      "titular_habitual": true
+    },
+    "Sofyan Amrabat": {
+      "posicion": "MID",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Brahim Diaz": {
+      "posicion": "MID",
+      "importancia": 0.8,
+      "titular_habitual": true
+    },
+    "Soufiane Rahimi": {
+      "posicion": "FWD",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Youssef En-Nesyri": {
+      "posicion": "FWD",
+      "importancia": 0.8,
+      "titular_habitual": true
+    }
+  },
+  "Japan": {
+    "Takefusa Kubo": {
+      "posicion": "FWD",
+      "importancia": 0.82,
+      "titular_habitual": true
+    },
+    "Daichi Kamada": {
+      "posicion": "MID",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Ritsu Doan": {
+      "posicion": "FWD",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Wataru Endo": {
+      "posicion": "MID",
+      "importancia": 0.75,
+      "titular_habitual": true,
+      "nota": "convocado pese a venir de lesion, segun Moriyasu"
+    },
+    "Ao Tanaka": {
+      "posicion": "MID",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Takehiro Tomiyasu": {
+      "posicion": "DEF",
+      "importancia": 0.72,
+      "titular_habitual": true,
+      "nota": "convocado pese a venir de lesion"
+    },
+    "Ko Itakura": {
+      "posicion": "DEF",
+      "importancia": 0.7,
+      "titular_habitual": true,
+      "nota": "convocado pese a venir de lesion"
+    },
+    "Hiroki Ito": {
+      "posicion": "DEF",
+      "importancia": 0.7,
+      "titular_habitual": true
+    },
+    "Zion Suzuki": {
+      "posicion": "GK",
+      "importancia": 0.7,
+      "titular_habitual": true
+    },
+    "Keito Nakamura": {
+      "posicion": "FWD",
+      "importancia": 0.7,
+      "titular_habitual": true
+    },
+    "Kaoru Mitoma": {
+      "posicion": "FWD",
+      "importancia": 0.85,
+      "titular_habitual": false,
+      "nota": "BAJA confirmada por lesion, no entro en la convocatoria final (era el jugador mas influyente del equipo)"
+    },
+    "Takumi Minamino": {
+      "posicion": "FWD",
+      "importancia": 0.72,
+      "titular_habitual": false,
+      "nota": "BAJA confirmada por lesion, no entro en la convocatoria final"
+    }
+  },
+  "Canada": {
+    "Alphonso Davies": {
+      "posicion": "DEF",
+      "importancia": 0.85,
+      "titular_habitual": true
+    },
+    "Jonathan David": {
+      "posicion": "FWD",
+      "importancia": 0.82,
+      "titular_habitual": true
+    },
+    "Stephen Eustaquio": {
+      "posicion": "MID",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Tajon Buchanan": {
+      "posicion": "MID",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Milan Borjan": {
+      "posicion": "GK",
+      "importancia": 0.68,
+      "titular_habitual": true
+    }
+  },
+  "Ecuador": {
+    "Moises Caicedo": {
+      "posicion": "MID",
+      "importancia": 0.85,
+      "titular_habitual": true
+    },
+    "Piero Hincapie": {
+      "posicion": "DEF",
+      "importancia": 0.8,
+      "titular_habitual": true
+    },
+    "Willian Pacho": {
+      "posicion": "DEF",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Pervis Estupinan": {
+      "posicion": "DEF",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Enner Valencia": {
+      "posicion": "FWD",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Angelo Preciado": {
+      "posicion": "DEF",
+      "importancia": 0.7,
+      "titular_habitual": true
+    },
+    "Gonzalo Plata": {
+      "posicion": "FWD",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Kendry Paez": {
+      "posicion": "MID",
+      "importancia": 0.75,
+      "titular_habitual": false,
+      "nota": "joven promesa, rota titularidad con Alan Minda segun el partido"
+    }
+  },
+  "Uruguay": {
+    "Federico Valverde": {
+      "posicion": "MID",
+      "importancia": 0.88,
+      "titular_habitual": true
+    },
+    "Darwin Nunez": {
+      "posicion": "FWD",
+      "importancia": 0.82,
+      "titular_habitual": true
+    },
+    "Giorgian de Arrascaeta": {
+      "posicion": "MID",
+      "importancia": 0.8,
+      "titular_habitual": true
+    },
+    "Sergio Rochet": {
+      "posicion": "GK",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Jose Maria Gimenez": {
+      "posicion": "DEF",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Manuel Ugarte": {
+      "posicion": "MID",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Nahitan Nandez": {
+      "posicion": "DEF",
+      "importancia": 0.7,
+      "titular_habitual": true
+    },
+    "Maximiliano Araujo": {
+      "posicion": "FWD",
+      "importancia": 0.7,
+      "titular_habitual": true
+    },
+    "Luis Suarez": {
+      "posicion": "FWD",
+      "importancia": 0.7,
+      "titular_habitual": false,
+      "nota": "veterano, rol reducido; tension publica con Bielsa/Valverde reportada"
+    }
+  },
+  "Colombia": {
+    "James Rodriguez": {
+      "posicion": "MID",
+      "importancia": 0.88,
+      "titular_habitual": true,
+      "nota": "capitan y maximo goleador historico de Colombia en Mundiales"
+    },
+    "Luis Diaz": {
+      "posicion": "FWD",
+      "importancia": 0.88,
+      "titular_habitual": true
+    },
+    "Daniel Munoz": {
+      "posicion": "DEF",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Davinson Sanchez": {
+      "posicion": "DEF",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Jefferson Lerma": {
+      "posicion": "MID",
+      "importancia": 0.7,
+      "titular_habitual": true
+    },
+    "Rafael Santos Borre": {
+      "posicion": "FWD",
+      "importancia": 0.68,
+      "titular_habitual": true
+    }
+  },
+  "Croatia": {
+    "Luka Modric": {
+      "posicion": "MID",
+      "importancia": 0.9,
+      "titular_habitual": true,
+      "nota": "sexta participacion mundialista; capitan/referente historico"
+    },
+    "Joško Gvardiol": {
+      "posicion": "DEF",
+      "importancia": 0.85,
+      "titular_habitual": true
+    },
+    "Mateo Kovacic": {
+      "posicion": "MID",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Dominik Livakovic": {
+      "posicion": "GK",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Andrej Kramaric": {
+      "posicion": "FWD",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Ivan Perisic": {
+      "posicion": "FWD",
+      "importancia": 0.7,
+      "titular_habitual": true
+    }
+  },
+  "Belgium": {
+    "Kevin De Bruyne": {
+      "posicion": "MID",
+      "importancia": 0.88,
+      "titular_habitual": true
+    },
+    "Thibaut Courtois": {
+      "posicion": "GK",
+      "importancia": 0.85,
+      "titular_habitual": true
+    },
+    "Jeremy Doku": {
+      "posicion": "FWD",
+      "importancia": 0.8,
+      "titular_habitual": true
+    },
+    "Charles De Ketelaere": {
+      "posicion": "FWD",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Leandro Trossard": {
+      "posicion": "FWD",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Youri Tielemans": {
+      "posicion": "MID",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Amadou Onana": {
+      "posicion": "MID",
+      "importancia": 0.75,
+      "titular_habitual": true
+    }
+  },
+  "Egypt": {
+    "Mohamed Salah": {
+      "posicion": "FWD",
+      "importancia": 0.9,
+      "titular_habitual": true,
+      "nota": "capitan y maxima figura de Egipto"
+    },
+    "Omar Marmoush": {
+      "posicion": "FWD",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Mohamed Elneny": {
+      "posicion": "MID",
+      "importancia": 0.68,
+      "titular_habitual": true
+    }
+  },
+  "Cape Verde": {
+    "Vozinha": {
+      "posicion": "GK",
+      "importancia": 0.75,
+      "titular_habitual": true,
+      "nota": "arquero mas experimentado, debut historico de Cabo Verde en Mundiales"
+    },
+    "Roberto Lopes": {
+      "posicion": "DEF",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Ryan Mendes": {
+      "posicion": "FWD",
+      "importancia": 0.75,
+      "titular_habitual": true,
+      "nota": "extremo mas experimentado"
+    },
+    "Dailon Livramento": {
+      "posicion": "FWD",
+      "importancia": 0.72,
+      "titular_habitual": true,
+      "nota": "decisivo en las eliminatorias"
+    },
+    "Jovane Cabral": {
+      "posicion": "FWD",
+      "importancia": 0.68,
+      "titular_habitual": true
+    },
+    "Garry Rodrigues": {
+      "posicion": "FWD",
+      "importancia": 0.65,
+      "titular_habitual": true
+    },
+    "Nuno da Costa": {
+      "posicion": "FWD",
+      "importancia": 0.65,
+      "titular_habitual": true,
+      "nota": "regreso a la convocatoria"
+    },
+    "Steven Moreira": {
+      "posicion": "DEF",
+      "importancia": 0.62,
+      "titular_habitual": true
+    }
+  },
+  "Senegal": {
+    "Sadio Mane": {
+      "posicion": "FWD",
+      "importancia": 0.88,
+      "titular_habitual": true,
+      "nota": "se perdio Qatar 2022 por lesion, ahora disponible"
+    },
+    "Idrissa Gana Gueye": {
+      "posicion": "MID",
+      "importancia": 0.78,
+      "titular_habitual": true,
+      "nota": "jugador con mas partidos en la historia de Senegal (130), tercer Mundial"
+    },
+    "Ismaila Sarr": {
+      "posicion": "FWD",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Iliman Ndiaye": {
+      "posicion": "FWD",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Bamba Dieng": {
+      "posicion": "FWD",
+      "importancia": 0.68,
+      "titular_habitual": true
+    },
+    "Bara Sapoko Ndiaye": {
+      "posicion": "MID",
+      "importancia": 0.65,
+      "titular_habitual": false,
+      "nota": "joya de 18 anos del Bayern, gran sorpresa de la convocatoria"
+    }
+  },
+  "Ivory Coast": {
+    "Franck Kessie": {
+      "posicion": "MID",
+      "importancia": 0.82,
+      "titular_habitual": true,
+      "nota": "capitan"
+    },
+    "Evan Ndicka": {
+      "posicion": "DEF",
+      "importancia": 0.78,
+      "titular_habitual": true,
+      "nota": "pieza clave de la defensa"
+    },
+    "Amad Diallo": {
+      "posicion": "FWD",
+      "importancia": 0.78,
+      "titular_habitual": true,
+      "nota": "brillo en la ultima Copa Africana"
+    },
+    "Wilfried Singo": {
+      "posicion": "DEF",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Ousmane Diomande": {
+      "posicion": "DEF",
+      "importancia": 0.75,
+      "titular_habitual": true
+    },
+    "Yahia Fofana": {
+      "posicion": "GK",
+      "importancia": 0.7,
+      "titular_habitual": true
+    },
+    "Nicolas Pepe": {
+      "posicion": "FWD",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Sebastien Haller": {
+      "posicion": "FWD",
+      "importancia": 0.75,
+      "titular_habitual": true,
+      "nota": "autor del gol decisivo en la final de la Copa Africana 2024"
+    }
+  },
+  "South Korea": {
+    "Lee Kang-in": {
+      "posicion": "MID",
+      "importancia": 0.82,
+      "titular_habitual": true
+    },
+    "Hwang Hee-chan": {
+      "posicion": "FWD",
+      "importancia": 0.78,
+      "titular_habitual": true
+    },
+    "Hwang In-beom": {
+      "posicion": "MID",
+      "importancia": 0.72,
+      "titular_habitual": true
+    },
+    "Son Heung-min": {
+      "posicion": "FWD",
+      "importancia": 0.8,
+      "titular_habitual": false,
+      "nota": "NO convocado para el Mundial 2026, estrella historica del equipo"
+    }
+  }
+}

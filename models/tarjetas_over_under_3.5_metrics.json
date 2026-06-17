@@ -1,0 +1,44 @@
+{
+  "mercado": "Tarjetas_Over_Under_3.5",
+  "target": "target_cards_ou35",
+  "n_partidos_total": 751,
+  "metodologia": "5-fold StratifiedKFold cross-validation (dataset reducido, sin split temporal fijo)",
+  "advertencia": "Dataset pequeño -- interpretar métricas con cautela. Ver accuracy_por_fold para variabilidad.",
+  "modelo_ingenuo": {
+    "accuracy": 0.5486018641810919
+  },
+  "baseline_logreg_cv": {
+    "accuracy": 0.5326231691078562,
+    "log_loss": 0.7388517476806086,
+    "auc": 0.5506236217315348
+  },
+  "xgboost_cv": {
+    "accuracy": 0.559254327563249,
+    "log_loss": 0.673738956451416,
+    "brier": 0.2408733367919922,
+    "auc": 0.5928666552109287,
+    "accuracy_umbral_optimo": 0.5605858854860186,
+    "umbral_optimo": 0.36205118894577026
+  },
+  "accuracy_por_fold": [
+    0.5761589403973509,
+    0.5,
+    0.5533333333333333,
+    0.62,
+    0.5466666666666666
+  ],
+  "accuracy_fold_media": 0.5592317880794703,
+  "accuracy_fold_std": 0.039192812680932054,
+  "top_10_features": {
+    "dog_dias_descanso": 0.05388132482767105,
+    "dog_avg_passing": 0.048973530530929565,
+    "fav_dias_descanso": 0.04465857148170471,
+    "descanso_diff": 0.04292433708906174,
+    "dog_form_scored": 0.04179656133055687,
+    "dog_max_overall": 0.040261171758174896,
+    "dog_avg_pace": 0.04000558704137802,
+    "fav_avg_overall": 0.039681997150182724,
+    "dog_avg_defense": 0.03815282881259918,
+    "fav_dog_elo_diff": 0.037850670516490936
+  }
+}

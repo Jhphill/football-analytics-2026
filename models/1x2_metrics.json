@@ -1,0 +1,39 @@
+{
+  "mercado": "1X2",
+  "target": "target_1x2_fav_dog",
+  "fecha_corte_train_test": "2018-01-01",
+  "n_train": 37202,
+  "n_test": 6488,
+  "modelo_ingenuo": {
+    "accuracy": 0.5750616522811344
+  },
+  "baseline_logreg": {
+    "accuracy": 0.5827681874229347,
+    "log_loss": 0.9030918251952674
+  },
+  "xgboost_sin_calibrar": {
+    "accuracy": 0.5821516646115906,
+    "log_loss": 0.9017386436462402
+  },
+  "xgboost_calibrado": {
+    "accuracy": 0.5803020961775586,
+    "log_loss": 0.9009327749817033
+  },
+  "xgboost_calibrado_solo_neutrales": {
+    "accuracy": 0.5286783042394015,
+    "log_loss": 0.964366131023475,
+    "n_partidos": 2005
+  },
+  "top_10_features": {
+    "fav_dog_elo_diff": 0.16641254723072052,
+    "dog_form_conceded": 0.049480900168418884,
+    "dog_max_overall": 0.04131784662604332,
+    "dog_avg_overall": 0.037913478910923004,
+    "fav_avg_defense": 0.037702012807130814,
+    "dog_avg_attack": 0.03720787540078163,
+    "fav_avg_overall": 0.03703072667121887,
+    "fav_avg_passing": 0.03608347848057747,
+    "fav_avg_attack": 0.033936887979507446,
+    "fav_form_conceded": 0.029505938291549683
+  }
+}

@@ -1,0 +1,65 @@
+﻿ID,Year,Stage,Home Team,Away Team
+1,2022,Group stage,Qatar,Ecuador
+2,2022,Group stage,Senegal,Netherlands
+3,2022,Group stage,England,Iran
+4,2022,Group stage,United States,Wales
+5,2022,Group stage,France,Australia
+6,2022,Group stage,Denmark,Tunisia
+7,2022,Group stage,Mexico,Poland
+8,2022,Group stage,Argentina,Saudi Arabia
+9,2022,Group stage,Belgium,Canada
+10,2022,Group stage,Spain,Costa Rica
+11,2022,Group stage,Germany,Japan
+12,2022,Group stage,Morocco,Croatia
+13,2022,Group stage,Switzerland,Cameroon
+14,2022,Group stage,Uruguay,South Korea
+15,2022,Group stage,Portugal,Ghana
+16,2022,Group stage,Brazil,Serbia
+17,2022,Group stage,Iran,Wales
+18,2022,Group stage,Qatar,Senegal
+19,2022,Group stage,Netherlands,Ecuador
+20,2022,Group stage,England,United States
+21,2022,Group stage,Tunisia,Australia
+22,2022,Group stage,Poland,Saudi Arabia
+23,2022,Group stage,France,Denmark
+24,2022,Group stage,Argentina,Mexico
+25,2022,Group stage,Japan,Costa Rica
+26,2022,Group stage,Belgium,Morocco
+27,2022,Group stage,Croatia,Canada
+28,2022,Group stage,Spain,Germany
+29,2022,Group stage,Serbia,Cameroon
+30,2022,Group stage,South Korea,Ghana
+31,2022,Group stage,Brazil,Switzerland
+32,2022,Group stage,Portugal,Uruguay
+33,2022,Group stage,England,Wales
+34,2022,Group stage,Iran,United States
+35,2022,Group stage,Ecuador,Senegal
+36,2022,Group stage,Qatar,Netherlands
+37,2022,Group stage,Denmark,Australia
+38,2022,Group stage,Tunisia,France
+39,2022,Group stage,Poland,Argentina
+40,2022,Group stage,Saudi Arabia,Mexico
+41,2022,Group stage,Croatia,Belgium
+42,2022,Group stage,Canada,Morocco
+43,2022,Group stage,Japan,Spain
+44,2022,Group stage,Costa Rica,Germany
+45,2022,Group stage,Ghana,Uruguay
+46,2022,Group stage,South Korea,Portugal
+47,2022,Group stage,Serbia,Switzerland
+48,2022,Group stage,Brazil,Cameroon
+49,2022,Round of 16,1A,2B
+50,2022,Round of 16,1C,2D
+51,2022,Round of 16,1B,2A
+52,2022,Round of 16,1D,2C
+53,2022,Round of 16,1E,2F
+54,2022,Round of 16,1G,2H
+55,2022,Round of 16,1F,2E
+56,2022,Round of 16,1H,2G
+57,2022,Quarter-finals,W49,W50
+58,2022,Quarter-finals,W53,W54
+59,2022,Quarter-finals,W51,W52
+60,2022,Quarter-finals,W55,W56
+61,2022,Semi-finals,W57,W58
+62,2022,Semi-finals,W59,W60
+63,2022,Third place,L61,L62
+64,2022,Final,W61,W62

@@ -1,0 +1,45 @@
+{
+  "1x2": {
+    "modelo_pkl": "1x2_neutral_xgboost_calibrado.pkl",
+    "imputer_pkl": "1x2_neutral_imputer.pkl",
+    "label_encoder_pkl": "1x2_neutral_label_encoder.pkl",
+    "decision": "USAR_MODELO",
+    "razon": "Modelo entrenado solo en neutrales supera marginalmente al general en el subconjunto neutral, que es el escenario real del Mundial 2026. Verificar con 11b_metrics.json si la mejora es positiva.",
+    "advertencia_dashboard": "1X2 es el mercado con señal más débil (~50-55% accuracy). Las probabilidades son orientativas. Priorizar value bets donde la diferencia vs cuota sea > 5%."
+  },
+  "over_under_25": {
+    "modelo_pkl": "over_under_2.5_goles_xgboost_calibrado.pkl",
+    "imputer_pkl": "over_under_2.5_goles_imputer.pkl",
+    "decision": "USAR_MODELO",
+    "razon": "AUC ~0.58, señal consistente, mejor que azar de forma estable.",
+    "advertencia_dashboard": null
+  },
+  "btts": {
+    "modelo_pkl": "both_teams_to_score_xgboost_calibrado.pkl",
+    "imputer_pkl": "both_teams_to_score_imputer.pkl",
+    "decision": "USAR_MODELO",
+    "razon": "AUC ~0.57, similar a OU2.5. Usar probabilidades calibradas directamente (no umbral 0.5) para el value bet detector — el umbral óptimo está alrededor de 0.42.",
+    "advertencia_dashboard": "Usar probabilidad cruda del modelo para comparar vs cuota implícita. El umbral 0.5 no es apropiado para este mercado (clase ligeramente desbalanceada)."
+  },
+  "tarjetas_ou35": {
+    "modelo_pkl": "tarjetas_over_under_3.5_xgboost_calibrado.pkl",
+    "imputer_pkl": "tarjetas_over_under_3.5_imputer.pkl",
+    "decision": "USAR_MODELO",
+    "razon": "AUC 0.593, el mejor de todos los mercados. Señal estable entre folds. Dataset pequeño (751 WC), pero suficiente para capturar patrones de estilo de juego.",
+    "advertencia_dashboard": "Solo disponible para partidos de FIFA World Cup. Dataset de entrenamiento: 751 partidos (1970-2022)."
+  },
+  "tarjeta_roja": {
+    "modelo_pkl": "tarjeta_roja_xgboost_calibrado.pkl",
+    "imputer_pkl": "tarjeta_roja_imputer.pkl",
+    "decision": "USAR_BASELINE_EMPIRICO",
+    "prob_base_empirica": 0.108,
+    "razon": "AUC < 0.58 incluso con fix de regularización. Con solo 81 positivos en 751 partidos, el dataset es insuficiente para aprender el patrón con las features disponibles.",
+    "advertencia_dashboard": "⚠️ El modelo predictivo no mejora sobre el baseline empírico para este mercado. Se muestra la probabilidad histórica de tarjeta roja en Mundiales (≈10.8%) como referencia orientativa. Un modelo robusto requeriría historial disciplinario individual de jugadores y perfil del árbitro asignado.",
+    "que_falta_para_mejorar": [
+      "Historial de tarjetas rojas por jugador en últimos 20 partidos",
+      "Perfil disciplinario del árbitro designado",
+      "Rivalidad histórica entre los equipos (H2H agresividad)",
+      "Fase del torneo (en semifinales/finales hay menos rojas que en grupos)"
+    ]
+  }
+}

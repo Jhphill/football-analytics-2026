@@ -1,0 +1,17 @@
+{
+  "version": "v1.3",
+  "dataset": "matches_features_v2.csv",
+  "target": "target_1x2_fav_dog (fav_win/draw/dog_win)",
+  "n_muestras": 42943,
+  "n_train": 34354,
+  "n_test": 8589,
+  "baseline_accuracy": 0.5739,
+  "accuracy": 0.5755,
+  "macro_f1": 0.2982,
+  "f1_por_clase": {
+    "dog_win": 0.16,
+    "draw": 0.0,
+    "fav_win": 0.73
+  },
+  "notas": "Incluye los 481 partidos de Mundial (354 con forma calculada). Orientacion fav/dog via Elo, valida en sede neutral."
+}

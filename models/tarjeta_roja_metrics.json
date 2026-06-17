@@ -1,0 +1,49 @@
+{
+  "mercado": "Tarjeta_Roja (fix de regularización)",
+  "target": "target_redcard",
+  "n_partidos_total": 751,
+  "n_positivos": 81,
+  "pct_positivos": 0.10785619174434088,
+  "prob_base_empirica": 0.108,
+  "decision_dashboard": "USAR_BASELINE_EMPIRICO",
+  "advertencia": "Modelo con señal limitada por dataset pequeño (81 positivos). AUC no supera umbral de utilidad práctica (0.58). En el dashboard se muestra la probabilidad base empírica (10.8%) con advertencia explícita. Un modelo robusto requeriría historial disciplinario individual de jugadores y perfil del árbitro.",
+  "modelo_original_auc": 0.454,
+  "mejor_config": "Config C (más profunda + scale_pos_weight)",
+  "mejor_auc": 0.5142251704440759,
+  "comparativa_configs": [
+    {
+      "config": "Config A (relajada: mcw=3, lambda=1.0)",
+      "auc": 0.5105951722867146,
+      "log_loss": 0.5336309671401978,
+      "brier": 0.17882488667964935,
+      "accuracy_05": 0.7243675099866844,
+      "n_pred_positivos_05": 158,
+      "umbral_optimo": 0.16306698322296143,
+      "accuracy_opt": 0.2769640479360852,
+      "n_pred_positivos_opt": 604
+    },
+    {
+      "config": "Config B (mínima regularización: mcw=1, lambda=0.5)",
+      "auc": 0.4993735028560899,
+      "log_loss": 0.5276681780815125,
+      "brier": 0.17658738791942596,
+      "accuracy_05": 0.7177097203728362,
+      "n_pred_positivos_05": 161,
+      "umbral_optimo": 0.11166303604841232,
+      "accuracy_opt": 0.21438082556591212,
+      "n_pred_positivos_opt": 661
+    },
+    {
+      "config": "Config C (más profunda + scale_pos_weight)",
+      "auc": 0.5142251704440759,
+      "log_loss": 0.49168938398361206,
+      "brier": 0.15987277030944824,
+      "accuracy_05": 0.7643142476697736,
+      "n_pred_positivos_05": 120,
+      "umbral_optimo": 0.28746268153190613,
+      "accuracy_opt": 0.5525965379494008,
+      "n_pred_positivos_opt": 339
+    }
+  ],
+  "umbral_utilidad_definido": 0.58
+}

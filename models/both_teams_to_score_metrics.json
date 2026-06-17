@@ -1,0 +1,45 @@
+{
+  "mercado": "Both_Teams_To_Score",
+  "target": "target_btts",
+  "n_train": 37202,
+  "n_test": 6441,
+  "modelo_ingenuo": {
+    "accuracy": 0.5769290482844279
+  },
+  "baseline_logreg": {
+    "accuracy": 0.5859338612016768,
+    "log_loss": 0.6703067134582456,
+    "brier": 0.2389190863552941,
+    "auc": 0.5798197726666733
+  },
+  "xgboost_sin_calibrar": {
+    "accuracy": 0.5730476634063034,
+    "log_loss": 0.6739694476127625,
+    "brier": 0.2406049519777298,
+    "auc": 0.5629621473222662
+  },
+  "xgboost_calibrado": {
+    "accuracy": 0.5787921130259277,
+    "log_loss": 0.6733628534367,
+    "brier": 0.24018545236435004,
+    "auc": 0.5715761250629561
+  },
+  "evaluacion_partidos_neutrales": {
+    "n_partidos": 1961,
+    "accuracy": 0.5563488016318205,
+    "log_loss": 0.6823627326788546,
+    "auc": 0.5552396802157175
+  },
+  "top_10_features": {
+    "dog_form_scored": 0.06636957079172134,
+    "fav_form_scored": 0.0572732649743557,
+    "fav_dog_elo_diff": 0.05399724096059799,
+    "fav_form_conceded": 0.04569162800908089,
+    "dog_form_conceded": 0.04503608122467995,
+    "dog_max_overall": 0.03973910212516785,
+    "dog_avg_overall": 0.03711678460240364,
+    "tournament_weight": 0.036736346781253815,
+    "dog_avg_attack": 0.033711038529872894,
+    "fav_elo": 0.033028826117515564
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "mercado": "1X2 (solo partidos neutrales)",
+  "target": "target_1x2_fav_dog",
+  "n_train_neutral": 8798,
+  "n_test_neutral": 2005,
+  "modelo_ingenuo": {
+    "accuracy": 0.5226932668329177
+  },
+  "baseline_logreg": {
+    "accuracy": 0.5271820448877805,
+    "log_loss": 0.9684845749640166
+  },
+  "xgboost_sin_calibrar": {
+    "accuracy": 0.5271820448877805,
+    "log_loss": 0.9677671194076538
+  },
+  "xgboost_calibrado": {
+    "accuracy": 0.5261845386533666,
+    "log_loss": 0.9678445127498547
+  },
+  "cv_5fold_accuracy_mean": 0.5543305855599773,
+  "cv_5fold_accuracy_std": 0.00507018351962369,
+  "comparacion_vs_modelo_general": {
+    "acc_modelo_general_en_neutrales": 0.5286783042394015,
+    "acc_modelo_solo_neutrales": 0.5261845386533666,
+    "diferencia_puntos": -0.0024937655860349794
+  },
+  "top_10_features": {
+    "fav_dog_elo_diff": 0.11135663837194443,
+    "dog_form_conceded": 0.058319058269262314,
+    "fav_form_conceded": 0.04213938117027283,
+    "fav_avg_attack": 0.04018469899892807,
+    "fav_max_overall": 0.038577426224946976,
+    "is_world_cup": 0.0373806394636631,
+    "dog_max_overall": 0.035982947796583176,
+    "dog_avg_attack": 0.0353691503405571,
+    "fav_avg_defense": 0.03473149240016937,
+    "dog_avg_overall": 0.03350045531988144
+  }
+}
