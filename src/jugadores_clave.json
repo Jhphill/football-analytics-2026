@@ -1,997 +1,539 @@
 {
   "Brazil": {
-    "Vinicius Junior": {
-      "posicion": "FWD",
-      "importancia": 0.95,
-      "titular_habitual": true
-    },
-    "Raphinha": {
-      "posicion": "FWD",
-      "importancia": 0.85,
-      "titular_habitual": true
-    },
-    "Casemiro": {
-      "posicion": "MID",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Bruno Guimaraes": {
-      "posicion": "MID",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Lucas Paqueta": {
-      "posicion": "MID",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Alisson": {
-      "posicion": "GK",
-      "importancia": 0.85,
-      "titular_habitual": true
-    },
-    "Marquinhos": {
-      "posicion": "DEF",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Gabriel Magalhaes": {
-      "posicion": "DEF",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Douglas Santos": {
-      "posicion": "DEF",
-      "importancia": 0.68,
-      "titular_habitual": true
-    },
-    "Roger Ibanez": {
-      "posicion": "DEF",
-      "importancia": 0.68,
-      "titular_habitual": true
-    },
-    "Igor Thiago": {
-      "posicion": "FWD",
-      "importancia": 0.7,
-      "titular_habitual": true,
-      "nota": "titular en el debut vs Marruecos por delante de Matheus Cunha"
-    },
-    "Neymar": {
-      "posicion": "FWD",
-      "importancia": 0.85,
-      "titular_habitual": false,
-      "nota": "convocado tras 2 anos fuera por lesiones; no es titular fijo segun Ancelotti"
-    }
+    "Alisson": { "posicion": "GK", "importancia": 0.9, "titular_habitual": true },
+    "Ederson": { "posicion": "GK", "importancia": 0.85, "titular_habitual": false },
+    "Bento": { "posicion": "GK", "importancia": 0.7, "titular_habitual": false },
+    "Marquinhos": { "posicion": "DEF", "importancia": 0.85, "titular_habitual": true },
+    "Gabriel Magalhaes": { "posicion": "DEF", "importancia": 0.82, "titular_habitual": true },
+    "Eder Militao": { "posicion": "DEF", "importancia": 0.8, "titular_habitual": true },
+    "Bremer": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": false },
+    "Danilo": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": true },
+    "Alex Sandro": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Vanderson": { "posicion": "DEF", "importancia": 0.68, "titular_habitual": false },
+    "Douglas Santos": { "posicion": "DEF", "importancia": 0.68, "titular_habitual": true },
+    "Roger Ibanez": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": false },
+    "Casemiro": { "posicion": "MID", "importancia": 0.85, "titular_habitual": true },
+    "Bruno Guimaraes": { "posicion": "MID", "importancia": 0.82, "titular_habitual": true },
+    "Lucas Paqueta": { "posicion": "MID", "importancia": 0.78, "titular_habitual": true },
+    "Andre": { "posicion": "MID", "importancia": 0.75, "titular_habitual": false },
+    "Joao Gomes": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Vinicius Junior": { "posicion": "FWD", "importancia": 0.95, "titular_habitual": true },
+    "Raphinha": { "posicion": "FWD", "importancia": 0.85, "titular_habitual": true },
+    "Neymar": { "posicion": "FWD", "importancia": 0.8, "titular_habitual": false, "nota": "convocado tras 2 anos fuera por lesiones; no es titular fijo segun Ancelotti" },
+    "Rodrygo": { "posicion": "FWD", "importancia": 0.82, "titular_habitual": true },
+    "Endrick": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": false },
+    "Igor Thiago": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": true, "nota": "titular en el debut vs Marruecos por delante de Matheus Cunha" },
+    "Gabriel Martinelli": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": false },
+    "Savinho": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": false },
+    "Luiz Henrique": { "posicion": "FWD", "importancia": 0.68, "titular_habitual": false }
   },
   "Argentina": {
-    "Lionel Messi": {
-      "posicion": "FWD",
-      "importancia": 0.95,
-      "titular_habitual": true
-    },
-    "Julian Alvarez": {
-      "posicion": "FWD",
-      "importancia": 0.85,
-      "titular_habitual": true
-    },
-    "Lautaro Martinez": {
-      "posicion": "FWD",
-      "importancia": 0.85,
-      "titular_habitual": true
-    },
-    "Emiliano Martinez": {
-      "posicion": "GK",
-      "importancia": 0.85,
-      "titular_habitual": true
-    },
-    "Rodrigo De Paul": {
-      "posicion": "MID",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Enzo Fernandez": {
-      "posicion": "MID",
-      "importancia": 0.8,
-      "titular_habitual": true
-    },
-    "Alexis Mac Allister": {
-      "posicion": "MID",
-      "importancia": 0.8,
-      "titular_habitual": true
-    },
-    "Leandro Paredes": {
-      "posicion": "MID",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Nicolas Otamendi": {
-      "posicion": "DEF",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Lisandro Martinez": {
-      "posicion": "DEF",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Nahuel Molina": {
-      "posicion": "DEF",
-      "importancia": 0.7,
-      "titular_habitual": true
-    },
-    "Cristian Romero": {
-      "posicion": "DEF",
-      "importancia": 0.78,
-      "titular_habitual": true,
-      "nota": "lesion leve de rodilla (LCI grado 1), se espera llegue a tiempo al Mundial"
-    }
+    "Emiliano Martinez": { "posicion": "GK", "importancia": 0.85, "titular_habitual": true },
+    "Gerónimo Rulli": { "posicion": "GK", "importancia": 0.7, "titular_habitual": false },
+    "Walter Benitez": { "posicion": "GK", "importancia": 0.65, "titular_habitual": false },
+    "Cristian Romero": { "posicion": "DEF", "importancia": 0.85, "titular_habitual": true, "nota": "lesion leve de rodilla (LCI grado 1), se espera llegue a tiempo al Mundial" },
+    "Lisandro Martinez": { "posicion": "DEF", "importancia": 0.8, "titular_habitual": true },
+    "Nicolas Otamendi": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": true },
+    "Nahuel Molina": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": true },
+    "Gonzalo Montiel": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Marcos Acuña": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": false },
+    "Nicolas Tagliafico": { "posicion": "DEF", "importancia": 0.68, "titular_habitual": false },
+    "Nehuen Perez": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Rodrigo De Paul": { "posicion": "MID", "importancia": 0.85, "titular_habitual": true },
+    "Enzo Fernandez": { "posicion": "MID", "importancia": 0.82, "titular_habitual": true },
+    "Alexis Mac Allister": { "posicion": "MID", "importancia": 0.8, "titular_habitual": true },
+    "Leandro Paredes": { "posicion": "MID", "importancia": 0.75, "titular_habitual": true },
+    "Nicolas Gonzalez": { "posicion": "MID", "importancia": 0.72, "titular_habitual": false },
+    "Exequiel Palacios": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Lionel Messi": { "posicion": "FWD", "importancia": 0.95, "titular_habitual": true },
+    "Lautaro Martinez": { "posicion": "FWD", "importancia": 0.85, "titular_habitual": true },
+    "Julian Alvarez": { "posicion": "FWD", "importancia": 0.85, "titular_habitual": true },
+    "Angel Di Maria": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": false },
+    "Alejandro Garnacho": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": false },
+    "Paulo Dybala": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false },
+    "Giovanni Simeone": { "posicion": "FWD", "importancia": 0.68, "titular_habitual": false },
+    "Facundo Buonanotte": { "posicion": "FWD", "importancia": 0.65, "titular_habitual": false }
   },
   "France": {
-    "Kylian Mbappe": {
-      "posicion": "FWD",
-      "importancia": 0.97,
-      "titular_habitual": true,
-      "nota": "capitan de Francia"
-    },
-    "Ousmane Dembele": {
-      "posicion": "FWD",
-      "importancia": 0.88,
-      "titular_habitual": true,
-      "nota": "ultimo ganador del Balon de Oro"
-    },
-    "Michael Olise": {
-      "posicion": "MID",
-      "importancia": 0.8,
-      "titular_habitual": true
-    },
-    "Aurelien Tchouameni": {
-      "posicion": "MID",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Mike Maignan": {
-      "posicion": "GK",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "William Saliba": {
-      "posicion": "DEF",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Dayot Upamecano": {
-      "posicion": "DEF",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Jules Kounde": {
-      "posicion": "DEF",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Theo Hernandez": {
-      "posicion": "DEF",
-      "importancia": 0.73,
-      "titular_habitual": true
-    },
-    "Marcus Thuram": {
-      "posicion": "FWD",
-      "importancia": 0.73,
-      "titular_habitual": false,
-      "nota": "sumado de ultimo momento a la convocatoria"
-    },
-    "Desire Doue": {
-      "posicion": "FWD",
-      "importancia": 0.75,
-      "titular_habitual": false,
-      "nota": "Mejor Jugador Joven del Mundial de Clubes 2025"
-    },
-    "Hugo Ekitike": {
-      "posicion": "FWD",
-      "importancia": 0.7,
-      "titular_habitual": false,
-      "nota": "BAJA por lesion, se esperaba que fuera titular"
-    }
+    "Mike Maignan": { "posicion": "GK", "importancia": 0.85, "titular_habitual": true },
+    "Brice Samba": { "posicion": "GK", "importancia": 0.7, "titular_habitual": false },
+    "Lucas Chevalier": { "posicion": "GK", "importancia": 0.65, "titular_habitual": false },
+    "William Saliba": { "posicion": "DEF", "importancia": 0.85, "titular_habitual": true },
+    "Dayot Upamecano": { "posicion": "DEF", "importancia": 0.8, "titular_habitual": true },
+    "Jules Kounde": { "posicion": "DEF", "importancia": 0.78, "titular_habitual": true },
+    "Theo Hernandez": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": true },
+    "Ibrahima Konate": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": false },
+    "Benjamin Pavard": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Ferland Mendy": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": false },
+    "Aurelien Tchouameni": { "posicion": "MID", "importancia": 0.85, "titular_habitual": true },
+    "Michael Olise": { "posicion": "MID", "importancia": 0.82, "titular_habitual": true },
+    "Eduardo Camavinga": { "posicion": "MID", "importancia": 0.78, "titular_habitual": false },
+    "Youssouf Fofana": { "posicion": "MID", "importancia": 0.75, "titular_habitual": false },
+    "Warren Zaire-Emery": { "posicion": "MID", "importancia": 0.72, "titular_habitual": false },
+    "Kylian Mbappe": { "posicion": "FWD", "importancia": 0.97, "titular_habitual": true, "nota": "capitan de Francia" },
+    "Ousmane Dembele": { "posicion": "FWD", "importancia": 0.88, "titular_habitual": true, "nota": "ultimo ganador del Balon de Oro" },
+    "Marcus Thuram": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": false, "nota": "sumado de ultimo momento a la convocatoria" },
+    "Desire Doue": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": false, "nota": "Mejor Jugador Joven del Mundial de Clubes 2025" },
+    "Randal Kolo Muani": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": false },
+    "Matthys Tel": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false }
   },
   "Spain": {
-    "Lamine Yamal": {
-      "posicion": "FWD",
-      "importancia": 0.95,
-      "titular_habitual": true,
-      "nota": "duda/lesion reciente (pubis) segun reportes; situacion a confirmar dia a dia"
-    },
-    "Pedri": {
-      "posicion": "MID",
-      "importancia": 0.9,
-      "titular_habitual": true,
-      "nota": "duda por lesion segun reportes recientes"
-    },
-    "Rodri": {
-      "posicion": "MID",
-      "importancia": 0.88,
-      "titular_habitual": true,
-      "nota": "viene de lesion muscular en isquiotibial"
-    },
-    "Nico Williams": {
-      "posicion": "FWD",
-      "importancia": 0.8,
-      "titular_habitual": true,
-      "nota": "viene de lesion"
-    },
-    "Mikel Oyarzabal": {
-      "posicion": "FWD",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Unai Simon": {
-      "posicion": "GK",
-      "importancia": 0.8,
-      "titular_habitual": true
-    },
-    "Marc Cucurella": {
-      "posicion": "DEF",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Dani Olmo": {
-      "posicion": "MID",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Pau Cubarsi": {
-      "posicion": "DEF",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Aymeric Laporte": {
-      "posicion": "DEF",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Marcos Llorente": {
-      "posicion": "DEF",
-      "importancia": 0.68,
-      "titular_habitual": true
-    },
-    "Fabian Ruiz": {
-      "posicion": "MID",
-      "importancia": 0.72,
-      "titular_habitual": true,
-      "nota": "duda por lesion segun reportes recientes"
-    },
-    "Ferran Torres": {
-      "posicion": "FWD",
-      "importancia": 0.7,
-      "titular_habitual": true
-    },
-    "Alvaro Morata": {
-      "posicion": "FWD",
-      "importancia": 0.65,
-      "titular_habitual": false,
-      "nota": "fuera por motivos tecnicos en convocatorias recientes"
-    }
+    "Unai Simon": { "posicion": "GK", "importancia": 0.85, "titular_habitual": true },
+    "David Raya": { "posicion": "GK", "importancia": 0.7, "titular_habitual": false },
+    "Alex Remiro": { "posicion": "GK", "importancia": 0.65, "titular_habitual": false },
+    "Aymeric Laporte": { "posicion": "DEF", "importancia": 0.8, "titular_habitual": true },
+    "Pau Cubarsi": { "posicion": "DEF", "importancia": 0.78, "titular_habitual": true },
+    "Marc Cucurella": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": true },
+    "Dani Carvajal": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": false },
+    "Jose Gaya": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Robin Le Normand": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": false },
+    "Marcos Llorente": { "posicion": "DEF", "importancia": 0.68, "titular_habitual": true },
+    "Rodri": { "posicion": "MID", "importancia": 0.9, "titular_habitual": true, "nota": "viene de lesion muscular en isquiotibial" },
+    "Pedri": { "posicion": "MID", "importancia": 0.88, "titular_habitual": true, "nota": "duda por lesion segun reportes recientes" },
+    "Dani Olmo": { "posicion": "MID", "importancia": 0.82, "titular_habitual": true },
+    "Fabian Ruiz": { "posicion": "MID", "importancia": 0.78, "titular_habitual": true, "nota": "duda por lesion segun reportes recientes" },
+    "Mikel Merino": { "posicion": "MID", "importancia": 0.75, "titular_habitual": false },
+    "Martin Zubimendi": { "posicion": "MID", "importancia": 0.72, "titular_habitual": false },
+    "Lamine Yamal": { "posicion": "FWD", "importancia": 0.95, "titular_habitual": true, "nota": "duda/lesion reciente (pubis) segun reportes; situacion a confirmar dia a dia" },
+    "Nico Williams": { "posicion": "FWD", "importancia": 0.85, "titular_habitual": true, "nota": "viene de lesion" },
+    "Mikel Oyarzabal": { "posicion": "FWD", "importancia": 0.8, "titular_habitual": true },
+    "Ferran Torres": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": true },
+    "Alvaro Morata": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false, "nota": "fuera por motivos tecnicos en convocatorias recientes" },
+    "Pablo Torre": { "posicion": "FWD", "importancia": 0.68, "titular_habitual": false },
+    "Ayoze Perez": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false },
+    "Bryan Zaragoza": { "posicion": "FWD", "importancia": 0.65, "titular_habitual": false }
   },
   "Netherlands": {
-    "Virgil van Dijk": {
-      "posicion": "DEF",
-      "importancia": 0.9,
-      "titular_habitual": true
-    },
-    "Jan Paul van Hecke": {
-      "posicion": "DEF",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Micky van de Ven": {
-      "posicion": "DEF",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Denzel Dumfries": {
-      "posicion": "DEF",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Ryan Gravenberch": {
-      "posicion": "MID",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Tijjani Reijnders": {
-      "posicion": "MID",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Frenkie de Jong": {
-      "posicion": "MID",
-      "importancia": 0.82,
-      "titular_habitual": true
-    },
-    "Cody Gakpo": {
-      "posicion": "FWD",
-      "importancia": 0.82,
-      "titular_habitual": true
-    },
-    "Donyell Malen": {
-      "posicion": "FWD",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Crysencio Summerville": {
-      "posicion": "FWD",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Bart Verbruggen": {
-      "posicion": "GK",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Memphis Depay": {
-      "posicion": "FWD",
-      "importancia": 0.78,
-      "titular_habitual": false,
-      "nota": "no en el XI titular del debut, pero jugador de relevancia mediatica"
-    },
-    "Jurrien Timber": {
-      "posicion": "DEF",
-      "importancia": 0.78,
-      "titular_habitual": false,
-      "nota": "BAJA confirmada para el Mundial 2026 por lesion"
-    }
+    "Bart Verbruggen": { "posicion": "GK", "importancia": 0.78, "titular_habitual": true },
+    "Mark Flekken": { "posicion": "GK", "importancia": 0.7, "titular_habitual": false },
+    "Justin Bijlow": { "posicion": "GK", "importancia": 0.65, "titular_habitual": false },
+    "Virgil van Dijk": { "posicion": "DEF", "importancia": 0.9, "titular_habitual": true },
+    "Micky van de Ven": { "posicion": "DEF", "importancia": 0.82, "titular_habitual": true },
+    "Denzel Dumfries": { "posicion": "DEF", "importancia": 0.8, "titular_habitual": true },
+    "Nathan Ake": { "posicion": "DEF", "importancia": 0.78, "titular_habitual": false },
+    "Matthijs de Ligt": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": false },
+    "Jurrien Timber": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": false, "nota": "BAJA confirmada para el Mundial 2026 por lesion" },
+    "Jan Paul van Hecke": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": true },
+    "Frenkie de Jong": { "posicion": "MID", "importancia": 0.85, "titular_habitual": true },
+    "Ryan Gravenberch": { "posicion": "MID", "importancia": 0.8, "titular_habitual": true },
+    "Tijjani Reijnders": { "posicion": "MID", "importancia": 0.78, "titular_habitual": true },
+    "Teun Koopmeiners": { "posicion": "MID", "importancia": 0.75, "titular_habitual": false },
+    "Xavi Simons": { "posicion": "MID", "importancia": 0.72, "titular_habitual": false },
+    "Cody Gakpo": { "posicion": "FWD", "importancia": 0.85, "titular_habitual": true },
+    "Memphis Depay": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": false, "nota": "no en el XI titular del debut, pero jugador de relevancia mediatica" },
+    "Donyell Malen": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": true },
+    "Crysencio Summerville": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": true },
+    "Wout Weghorst": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false },
+    "Justin Kluivert": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false }
   },
   "England": {
-    "Harry Kane": {
-      "posicion": "FWD",
-      "importancia": 0.95,
-      "titular_habitual": true
-    },
-    "Jude Bellingham": {
-      "posicion": "MID",
-      "importancia": 0.95,
-      "titular_habitual": true
-    },
-    "Bukayo Saka": {
-      "posicion": "FWD",
-      "importancia": 0.85,
-      "titular_habitual": true
-    },
-    "Phil Foden": {
-      "posicion": "MID",
-      "importancia": 0.8,
-      "titular_habitual": true
-    },
-    "Declan Rice": {
-      "posicion": "MID",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Jordan Pickford": {
-      "posicion": "GK",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Reece James": {
-      "posicion": "DEF",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Trent Alexander-Arnold": {
-      "posicion": "DEF",
-      "importancia": 0.7,
-      "titular_habitual": false,
-      "nota": "NO convocado al Mundial 2026"
-    },
-    "Harry Maguire": {
-      "posicion": "DEF",
-      "importancia": 0.65,
-      "titular_habitual": false,
-      "nota": "NO convocado al Mundial 2026"
-    }
+    "Jordan Pickford": { "posicion": "GK", "importancia": 0.8, "titular_habitual": true },
+    "Aaron Ramsdale": { "posicion": "GK", "importancia": 0.7, "titular_habitual": false },
+    "Dean Henderson": { "posicion": "GK", "importancia": 0.65, "titular_habitual": false },
+    "Reece James": { "posicion": "DEF", "importancia": 0.8, "titular_habitual": true },
+    "Kyle Walker": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": false },
+    "John Stones": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": false },
+    "Harry Maguire": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": false, "nota": "NO convocado al Mundial 2026" },
+    "Trent Alexander-Arnold": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false, "nota": "NO convocado al Mundial 2026" },
+    "Levi Colwill": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": false },
+    "Marc Guehi": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Declan Rice": { "posicion": "MID", "importancia": 0.85, "titular_habitual": true },
+    "Jude Bellingham": { "posicion": "MID", "importancia": 0.95, "titular_habitual": true },
+    "Phil Foden": { "posicion": "MID", "importancia": 0.85, "titular_habitual": true },
+    "Cole Palmer": { "posicion": "MID", "importancia": 0.78, "titular_habitual": false },
+    "Mason Mount": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Harry Kane": { "posicion": "FWD", "importancia": 0.95, "titular_habitual": true },
+    "Bukayo Saka": { "posicion": "FWD", "importancia": 0.88, "titular_habitual": true },
+    "Jarrod Bowen": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": false },
+    "Ollie Watkins": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": false },
+    "Marcus Rashford": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false },
+    "Ivan Toney": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": false },
+    "Anthony Gordon": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false }
   },
   "Germany": {
-    "Jamal Musiala": {
-      "posicion": "MID",
-      "importancia": 0.88,
-      "titular_habitual": true
-    },
-    "Florian Wirtz": {
-      "posicion": "MID",
-      "importancia": 0.88,
-      "titular_habitual": true
-    },
-    "Kai Havertz": {
-      "posicion": "FWD",
-      "importancia": 0.82,
-      "titular_habitual": true
-    },
-    "Joshua Kimmich": {
-      "posicion": "MID",
-      "importancia": 0.85,
-      "titular_habitual": true
-    },
-    "Antonio Rudiger": {
-      "posicion": "DEF",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Manuel Neuer": {
-      "posicion": "GK",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Nico Schlotterbeck": {
-      "posicion": "DEF",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Jonathan Tah": {
-      "posicion": "DEF",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Deniz Undav": {
-      "posicion": "FWD",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Nick Woltemade": {
-      "posicion": "FWD",
-      "importancia": 0.73,
-      "titular_habitual": true
-    },
-    "Leroy Sane": {
-      "posicion": "FWD",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Nathanael Brown": {
-      "posicion": "DEF",
-      "importancia": 0.65,
-      "titular_habitual": true
-    }
+    "Manuel Neuer": { "posicion": "GK", "importancia": 0.8, "titular_habitual": true },
+    "Marc-Andre ter Stegen": { "posicion": "GK", "importancia": 0.75, "titular_habitual": false },
+    "Alexander Nubel": { "posicion": "GK", "importancia": 0.65, "titular_habitual": false },
+    "Antonio Rudiger": { "posicion": "DEF", "importancia": 0.85, "titular_habitual": true },
+    "Nico Schlotterbeck": { "posicion": "DEF", "importancia": 0.8, "titular_habitual": true },
+    "Jonathan Tah": { "posicion": "DEF", "importancia": 0.78, "titular_habitual": true },
+    "David Raum": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": false },
+    "Benjamin Henrichs": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Nathanael Brown": { "posicion": "DEF", "importancia": 0.68, "titular_habitual": true },
+    "Joshua Kimmich": { "posicion": "MID", "importancia": 0.88, "titular_habitual": true },
+    "Jamal Musiala": { "posicion": "MID", "importancia": 0.9, "titular_habitual": true },
+    "Florian Wirtz": { "posicion": "MID", "importancia": 0.88, "titular_habitual": true },
+    "Leon Goretzka": { "posicion": "MID", "importancia": 0.78, "titular_habitual": false },
+    "Pascal Gross": { "posicion": "MID", "importancia": 0.72, "titular_habitual": false },
+    "Robert Andrich": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Kai Havertz": { "posicion": "FWD", "importancia": 0.85, "titular_habitual": true },
+    "Leroy Sane": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": true },
+    "Deniz Undav": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": true },
+    "Nick Woltemade": { "posicion": "FWD", "importancia": 0.73, "titular_habitual": true },
+    "Serge Gnabry": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": false },
+    "Niclas Fullkrug": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false },
+    "Kevin Trapp": { "posicion": "GK", "importancia": 0.6, "titular_habitual": false }
   },
   "USA": {
-    "Christian Pulisic": {
-      "posicion": "MID",
-      "importancia": 0.85,
-      "titular_habitual": true
-    },
-    "Folarin Balogun": {
-      "posicion": "FWD",
-      "importancia": 0.7,
-      "titular_habitual": true
-    },
-    "Weston McKennie": {
-      "posicion": "MID",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Tyler Adams": {
-      "posicion": "MID",
-      "importancia": 0.7,
-      "titular_habitual": true
-    },
-    "Matt Turner": {
-      "posicion": "GK",
-      "importancia": 0.65,
-      "titular_habitual": true
-    }
+    "Matt Turner": { "posicion": "GK", "importancia": 0.7, "titular_habitual": true },
+    "Ethan Horvath": { "posicion": "GK", "importancia": 0.6, "titular_habitual": false },
+    "Gabriel Slonina": { "posicion": "GK", "importancia": 0.55, "titular_habitual": false },
+    "Antonee Robinson": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": true },
+    "Sergino Dest": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": true },
+    "Chris Richards": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": true },
+    "Tim Ream": { "posicion": "DEF", "importancia": 0.68, "titular_habitual": false },
+    "Miles Robinson": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": false },
+    "Joe Scally": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": false },
+    "Christian Pulisic": { "posicion": "MID", "importancia": 0.88, "titular_habitual": true },
+    "Weston McKennie": { "posicion": "MID", "importancia": 0.78, "titular_habitual": true },
+    "Tyler Adams": { "posicion": "MID", "importancia": 0.75, "titular_habitual": true },
+    "Yunus Musah": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Gio Reyna": { "posicion": "MID", "importancia": 0.72, "titular_habitual": false },
+    "Brenden Aaronson": { "posicion": "MID", "importancia": 0.65, "titular_habitual": false },
+    "Folarin Balogun": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": true },
+    "Ricardo Pepi": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": false },
+    "Josh Sargent": { "posicion": "FWD", "importancia": 0.68, "titular_habitual": false },
+    "Tim Weah": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false },
+    "Malik Tillman": { "posicion": "FWD", "importancia": 0.65, "titular_habitual": false },
+    "Haji Wright": { "posicion": "FWD", "importancia": 0.6, "titular_habitual": false }
   },
   "Mexico": {
-    "Santiago Gimenez": {
-      "posicion": "FWD",
-      "importancia": 0.8,
-      "titular_habitual": true
-    },
-    "Edson Alvarez": {
-      "posicion": "MID",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Hirving Lozano": {
-      "posicion": "FWD",
-      "importancia": 0.7,
-      "titular_habitual": true
-    },
-    "Cesar Montes": {
-      "posicion": "DEF",
-      "importancia": 0.65,
-      "titular_habitual": true
-    },
-    "Luis Malagon": {
-      "posicion": "GK",
-      "importancia": 0.65,
-      "titular_habitual": false,
-      "nota": "BAJA confirmada: rotura de tendon de Aquiles, apuntaba a ser portero titular"
-    }
+    "Luis Malagon": { "posicion": "GK", "importancia": 0.65, "titular_habitual": false, "nota": "BAJA confirmada: rotura de tendon de Aquiles, apuntaba a ser portero titular" },
+    "Guillermo Ochoa": { "posicion": "GK", "importancia": 0.7, "titular_habitual": true },
+    "Raul Rangel": { "posicion": "GK", "importancia": 0.6, "titular_habitual": false },
+    "Cesar Montes": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": true },
+    "Edson Alvarez": { "posicion": "DEF", "importancia": 0.78, "titular_habitual": true },
+    "Johan Vasquez": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": true },
+    "Jesus Gallardo": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Kevin Alvarez": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": false },
+    "Gerardo Arteaga": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": false },
+    "Hirving Lozano": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": true },
+    "Santiago Gimenez": { "posicion": "FWD", "importancia": 0.82, "titular_habitual": true },
+    "Henry Martin": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false },
+    "Uriel Antuna": { "posicion": "FWD", "importancia": 0.68, "titular_habitual": false },
+    "Orbelin Pineda": { "posicion": "MID", "importancia": 0.7, "titular_habitual": true },
+    "Luis Romo": { "posicion": "MID", "importancia": 0.7, "titular_habitual": true },
+    "Luis Chavez": { "posicion": "MID", "importancia": 0.68, "titular_habitual": false },
+    "Marcelo Flores": { "posicion": "MID", "importancia": 0.6, "titular_habitual": false },
+    "Erick Sanchez": { "posicion": "MID", "importancia": 0.65, "titular_habitual": false }
   },
   "Morocco": {
-    "Achraf Hakimi": {
-      "posicion": "DEF",
-      "importancia": 0.9,
-      "titular_habitual": true
-    },
-    "Yassine Bounou": {
-      "posicion": "GK",
-      "importancia": 0.82,
-      "titular_habitual": true
-    },
-    "Sofyan Amrabat": {
-      "posicion": "MID",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Brahim Diaz": {
-      "posicion": "MID",
-      "importancia": 0.8,
-      "titular_habitual": true
-    },
-    "Soufiane Rahimi": {
-      "posicion": "FWD",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Youssef En-Nesyri": {
-      "posicion": "FWD",
-      "importancia": 0.8,
-      "titular_habitual": true
-    }
+    "Yassine Bounou": { "posicion": "GK", "importancia": 0.85, "titular_habitual": true },
+    "Munir El Kajoui": { "posicion": "GK", "importancia": 0.65, "titular_habitual": false },
+    "Salaheddine Chiah": { "posicion": "GK", "importancia": 0.6, "titular_habitual": false },
+    "Achraf Hakimi": { "posicion": "DEF", "importancia": 0.9, "titular_habitual": true },
+    "Nayef Aguerd": { "posicion": "DEF", "importancia": 0.78, "titular_habitual": true },
+    "Romain Saiss": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": false },
+    "Mohamed Chibi": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Youssouf Sabaly": { "posicion": "DEF", "importancia": 0.68, "titular_habitual": false },
+    "Sofyan Amrabat": { "posicion": "MID", "importancia": 0.82, "titular_habitual": true },
+    "Brahim Diaz": { "posicion": "MID", "importancia": 0.8, "titular_habitual": true },
+    "Azzedine Ounahi": { "posicion": "MID", "importancia": 0.75, "titular_habitual": true },
+    "Bilal El Khannouss": { "posicion": "MID", "importancia": 0.72, "titular_habitual": false },
+    "Ismael Saibari": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Youssef En-Nesyri": { "posicion": "FWD", "importancia": 0.82, "titular_habitual": true },
+    "Soufiane Rahimi": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": true },
+    "Amine Harit": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false },
+    "Abdessamad Ezzalzouli": { "posicion": "FWD", "importancia": 0.68, "titular_habitual": false },
+    "Eliesse Ben Seghir": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false }
   },
   "Japan": {
-    "Takefusa Kubo": {
-      "posicion": "FWD",
-      "importancia": 0.82,
-      "titular_habitual": true
-    },
-    "Daichi Kamada": {
-      "posicion": "MID",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Ritsu Doan": {
-      "posicion": "FWD",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Wataru Endo": {
-      "posicion": "MID",
-      "importancia": 0.75,
-      "titular_habitual": true,
-      "nota": "convocado pese a venir de lesion, segun Moriyasu"
-    },
-    "Ao Tanaka": {
-      "posicion": "MID",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Takehiro Tomiyasu": {
-      "posicion": "DEF",
-      "importancia": 0.72,
-      "titular_habitual": true,
-      "nota": "convocado pese a venir de lesion"
-    },
-    "Ko Itakura": {
-      "posicion": "DEF",
-      "importancia": 0.7,
-      "titular_habitual": true,
-      "nota": "convocado pese a venir de lesion"
-    },
-    "Hiroki Ito": {
-      "posicion": "DEF",
-      "importancia": 0.7,
-      "titular_habitual": true
-    },
-    "Zion Suzuki": {
-      "posicion": "GK",
-      "importancia": 0.7,
-      "titular_habitual": true
-    },
-    "Keito Nakamura": {
-      "posicion": "FWD",
-      "importancia": 0.7,
-      "titular_habitual": true
-    },
-    "Kaoru Mitoma": {
-      "posicion": "FWD",
-      "importancia": 0.85,
-      "titular_habitual": false,
-      "nota": "BAJA confirmada por lesion, no entro en la convocatoria final (era el jugador mas influyente del equipo)"
-    },
-    "Takumi Minamino": {
-      "posicion": "FWD",
-      "importancia": 0.72,
-      "titular_habitual": false,
-      "nota": "BAJA confirmada por lesion, no entro en la convocatoria final"
-    }
+    "Zion Suzuki": { "posicion": "GK", "importancia": 0.72, "titular_habitual": true },
+    "Kosei Tani": { "posicion": "GK", "importancia": 0.6, "titular_habitual": false },
+    "Keisuke Osako": { "posicion": "GK", "importancia": 0.55, "titular_habitual": false },
+    "Takehiro Tomiyasu": { "posicion": "DEF", "importancia": 0.78, "titular_habitual": true, "nota": "convocado pese a venir de lesion" },
+    "Ko Itakura": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": true, "nota": "convocado pese a venir de lesion" },
+    "Hiroki Ito": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": true },
+    "Yukinari Sugawara": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Daiki Hashioka": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": false },
+    "Riku Handa": { "posicion": "DEF", "importancia": 0.6, "titular_habitual": false },
+    "Wataru Endo": { "posicion": "MID", "importancia": 0.78, "titular_habitual": true, "nota": "convocado pese a venir de lesion, segun Moriyasu" },
+    "Daichi Kamada": { "posicion": "MID", "importancia": 0.75, "titular_habitual": true },
+    "Ao Tanaka": { "posicion": "MID", "importancia": 0.72, "titular_habitual": true },
+    "Ritsu Doan": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": true },
+    "Takefusa Kubo": { "posicion": "FWD", "importancia": 0.82, "titular_habitual": true },
+    "Keito Nakamura": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": true },
+    "Daizen Maeda": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false },
+    "Takuma Kawamura": { "posicion": "FWD", "importancia": 0.65, "titular_habitual": false },
+    "Hiroshi Kiyotake": { "posicion": "FWD", "importancia": 0.6, "titular_habitual": false },
+    "Kaoru Mitoma": { "posicion": "FWD", "importancia": 0.85, "titular_habitual": false, "nota": "BAJA confirmada por lesion, no entro en la convocatoria final (era el jugador mas influyente del equipo)" },
+    "Takumi Minamino": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": false, "nota": "BAJA confirmada por lesion, no entro en la convocatoria final" }
   },
   "Canada": {
-    "Alphonso Davies": {
-      "posicion": "DEF",
-      "importancia": 0.85,
-      "titular_habitual": true
-    },
-    "Jonathan David": {
-      "posicion": "FWD",
-      "importancia": 0.82,
-      "titular_habitual": true
-    },
-    "Stephen Eustaquio": {
-      "posicion": "MID",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Tajon Buchanan": {
-      "posicion": "MID",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Milan Borjan": {
-      "posicion": "GK",
-      "importancia": 0.68,
-      "titular_habitual": true
-    }
+    "Milan Borjan": { "posicion": "GK", "importancia": 0.7, "titular_habitual": true },
+    "Maxime Crepeau": { "posicion": "GK", "importancia": 0.6, "titular_habitual": false },
+    "Dayne St. Clair": { "posicion": "GK", "importancia": 0.55, "titular_habitual": false },
+    "Alphonso Davies": { "posicion": "DEF", "importancia": 0.88, "titular_habitual": true },
+    "Derek Cornelius": { "posicion": "DEF", "importancia": 0.68, "titular_habitual": true },
+    "Alistair Johnston": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": true },
+    "Richie Laryea": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": false },
+    "Kamal Miller": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": false },
+    "Stephen Eustaquio": { "posicion": "MID", "importancia": 0.78, "titular_habitual": true },
+    "Tajon Buchanan": { "posicion": "MID", "importancia": 0.75, "titular_habitual": true },
+    "Jonathan Osorio": { "posicion": "MID", "importancia": 0.68, "titular_habitual": false },
+    "Ismael Kone": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Junior Hoilett": { "posicion": "MID", "importancia": 0.65, "titular_habitual": false },
+    "Jonathan David": { "posicion": "FWD", "importancia": 0.85, "titular_habitual": true },
+    "Cyle Larin": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": false },
+    "Liam Millar": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false },
+    "Ike Ugbo": { "posicion": "FWD", "importancia": 0.65, "titular_habitual": false },
+    "Theo Bair": { "posicion": "FWD", "importancia": 0.6, "titular_habitual": false }
   },
   "Ecuador": {
-    "Moises Caicedo": {
-      "posicion": "MID",
-      "importancia": 0.85,
-      "titular_habitual": true
-    },
-    "Piero Hincapie": {
-      "posicion": "DEF",
-      "importancia": 0.8,
-      "titular_habitual": true
-    },
-    "Willian Pacho": {
-      "posicion": "DEF",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Pervis Estupinan": {
-      "posicion": "DEF",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Enner Valencia": {
-      "posicion": "FWD",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Angelo Preciado": {
-      "posicion": "DEF",
-      "importancia": 0.7,
-      "titular_habitual": true
-    },
-    "Gonzalo Plata": {
-      "posicion": "FWD",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Kendry Paez": {
-      "posicion": "MID",
-      "importancia": 0.75,
-      "titular_habitual": false,
-      "nota": "joven promesa, rota titularidad con Alan Minda segun el partido"
-    }
+    "Moises Caicedo": { "posicion": "MID", "importancia": 0.88, "titular_habitual": true },
+    "Piero Hincapie": { "posicion": "DEF", "importancia": 0.82, "titular_habitual": true },
+    "Willian Pacho": { "posicion": "DEF", "importancia": 0.78, "titular_habitual": true },
+    "Pervis Estupinan": { "posicion": "DEF", "importancia": 0.78, "titular_habitual": true },
+    "Enner Valencia": { "posicion": "FWD", "importancia": 0.8, "titular_habitual": true },
+    "Angelo Preciado": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": true },
+    "Gonzalo Plata": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": true },
+    "Kendry Paez": { "posicion": "MID", "importancia": 0.78, "titular_habitual": false, "nota": "joven promesa, rota titularidad con Alan Minda segun el partido" },
+    "Alan Franco": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Joel Ordonez": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Hernan Galindez": { "posicion": "GK", "importancia": 0.7, "titular_habitual": true },
+    "Alexander Dominguez": { "posicion": "GK", "importancia": 0.6, "titular_habitual": false },
+    "Carlos Gruezo": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Janner Corozo": { "posicion": "MID", "importancia": 0.65, "titular_habitual": false },
+    "Alan Minda": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false },
+    "Kevin Rodriguez": { "posicion": "FWD", "importancia": 0.65, "titular_habitual": false }
   },
   "Uruguay": {
-    "Federico Valverde": {
-      "posicion": "MID",
-      "importancia": 0.88,
-      "titular_habitual": true
-    },
-    "Darwin Nunez": {
-      "posicion": "FWD",
-      "importancia": 0.82,
-      "titular_habitual": true
-    },
-    "Giorgian de Arrascaeta": {
-      "posicion": "MID",
-      "importancia": 0.8,
-      "titular_habitual": true
-    },
-    "Sergio Rochet": {
-      "posicion": "GK",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Jose Maria Gimenez": {
-      "posicion": "DEF",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Manuel Ugarte": {
-      "posicion": "MID",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Nahitan Nandez": {
-      "posicion": "DEF",
-      "importancia": 0.7,
-      "titular_habitual": true
-    },
-    "Maximiliano Araujo": {
-      "posicion": "FWD",
-      "importancia": 0.7,
-      "titular_habitual": true
-    },
-    "Luis Suarez": {
-      "posicion": "FWD",
-      "importancia": 0.7,
-      "titular_habitual": false,
-      "nota": "veterano, rol reducido; tension publica con Bielsa/Valverde reportada"
-    }
+    "Federico Valverde": { "posicion": "MID", "importancia": 0.9, "titular_habitual": true },
+    "Darwin Nunez": { "posicion": "FWD", "importancia": 0.85, "titular_habitual": true },
+    "Giorgian de Arrascaeta": { "posicion": "MID", "importancia": 0.82, "titular_habitual": true },
+    "Sergio Rochet": { "posicion": "GK", "importancia": 0.78, "titular_habitual": true },
+    "Jose Maria Gimenez": { "posicion": "DEF", "importancia": 0.8, "titular_habitual": true },
+    "Manuel Ugarte": { "posicion": "MID", "importancia": 0.78, "titular_habitual": true },
+    "Nahitan Nandez": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": true },
+    "Maximiliano Araujo": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": true },
+    "Ronald Araujo": { "posicion": "DEF", "importancia": 0.78, "titular_habitual": false },
+    "Mathias Oliveira": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Luis Suarez": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false, "nota": "veterano, rol reducido; tension publica con Bielsa/Valverde reportada" },
+    "Facundo Pellistri": { "posicion": "FWD", "importancia": 0.68, "titular_habitual": false },
+    "Brian Rodriguez": { "posicion": "FWD", "importancia": 0.65, "titular_habitual": false },
+    "Santiago Bueno": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": false },
+    "Sebastian Caceres": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": false },
+    "Federico Martinez": { "posicion": "GK", "importancia": 0.6, "titular_habitual": false }
   },
   "Colombia": {
-    "James Rodriguez": {
-      "posicion": "MID",
-      "importancia": 0.88,
-      "titular_habitual": true,
-      "nota": "capitan y maximo goleador historico de Colombia en Mundiales"
-    },
-    "Luis Diaz": {
-      "posicion": "FWD",
-      "importancia": 0.88,
-      "titular_habitual": true
-    },
-    "Daniel Munoz": {
-      "posicion": "DEF",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Davinson Sanchez": {
-      "posicion": "DEF",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Jefferson Lerma": {
-      "posicion": "MID",
-      "importancia": 0.7,
-      "titular_habitual": true
-    },
-    "Rafael Santos Borre": {
-      "posicion": "FWD",
-      "importancia": 0.68,
-      "titular_habitual": true
-    }
+    "James Rodriguez": { "posicion": "MID", "importancia": 0.88, "titular_habitual": true, "nota": "capitan y maximo goleador historico de Colombia en Mundiales" },
+    "Luis Diaz": { "posicion": "FWD", "importancia": 0.88, "titular_habitual": true },
+    "Daniel Munoz": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": true },
+    "Davinson Sanchez": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": true },
+    "Jefferson Lerma": { "posicion": "MID", "importancia": 0.72, "titular_habitual": true },
+    "Rafael Santos Borre": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": true },
+    "Jhon Duran": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": false },
+    "Quintero": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Wilmar Barrios": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Camilo Vargas": { "posicion": "GK", "importancia": 0.7, "titular_habitual": true },
+    "David Ospina": { "posicion": "GK", "importancia": 0.65, "titular_habitual": false },
+    "Kevin Castaño": { "posicion": "MID", "importancia": 0.65, "titular_habitual": false },
+    "Deiver Machado": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": false },
+    "Jhon Lucumi": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Mateo Cassierra": { "posicion": "FWD", "importancia": 0.65, "titular_habitual": false }
   },
   "Croatia": {
-    "Luka Modric": {
-      "posicion": "MID",
-      "importancia": 0.9,
-      "titular_habitual": true,
-      "nota": "sexta participacion mundialista; capitan/referente historico"
-    },
-    "Joško Gvardiol": {
-      "posicion": "DEF",
-      "importancia": 0.85,
-      "titular_habitual": true
-    },
-    "Mateo Kovacic": {
-      "posicion": "MID",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Dominik Livakovic": {
-      "posicion": "GK",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Andrej Kramaric": {
-      "posicion": "FWD",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Ivan Perisic": {
-      "posicion": "FWD",
-      "importancia": 0.7,
-      "titular_habitual": true
-    }
+    "Luka Modric": { "posicion": "MID", "importancia": 0.9, "titular_habitual": true, "nota": "sexta participacion mundialista; capitan/referente historico" },
+    "Joško Gvardiol": { "posicion": "DEF", "importancia": 0.88, "titular_habitual": true },
+    "Mateo Kovacic": { "posicion": "MID", "importancia": 0.82, "titular_habitual": true },
+    "Dominik Livakovic": { "posicion": "GK", "importancia": 0.78, "titular_habitual": true },
+    "Andrej Kramaric": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": true },
+    "Ivan Perisic": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": true },
+    "Nikola Vlasic": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Josip Juranovic": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": false },
+    "Borna Sosa": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Lovro Majer": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Luka Sucic": { "posicion": "MID", "importancia": 0.65, "titular_habitual": false },
+    "Mario Pasalic": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Duje Caleta-Car": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": false },
+    "Josip Sutalo": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Ivan Ilic": { "posicion": "MID", "importancia": 0.6, "titular_habitual": false },
+    "Nediljko Labrovic": { "posicion": "GK", "importancia": 0.6, "titular_habitual": false },
+    "Martin Erlic": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": false },
+    "Dion Drena Beljo": { "posicion": "FWD", "importancia": 0.65, "titular_habitual": false }
   },
   "Belgium": {
-    "Kevin De Bruyne": {
-      "posicion": "MID",
-      "importancia": 0.88,
-      "titular_habitual": true
-    },
-    "Thibaut Courtois": {
-      "posicion": "GK",
-      "importancia": 0.85,
-      "titular_habitual": true
-    },
-    "Jeremy Doku": {
-      "posicion": "FWD",
-      "importancia": 0.8,
-      "titular_habitual": true
-    },
-    "Charles De Ketelaere": {
-      "posicion": "FWD",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Leandro Trossard": {
-      "posicion": "FWD",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Youri Tielemans": {
-      "posicion": "MID",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Amadou Onana": {
-      "posicion": "MID",
-      "importancia": 0.75,
-      "titular_habitual": true
-    }
+    "Thibaut Courtois": { "posicion": "GK", "importancia": 0.88, "titular_habitual": true },
+    "Kevin De Bruyne": { "posicion": "MID", "importancia": 0.9, "titular_habitual": true },
+    "Jeremy Doku": { "posicion": "FWD", "importancia": 0.82, "titular_habitual": true },
+    "Charles De Ketelaere": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": true },
+    "Leandro Trossard": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": true },
+    "Amadou Onana": { "posicion": "MID", "importancia": 0.78, "titular_habitual": true },
+    "Youri Tielemans": { "posicion": "MID", "importancia": 0.75, "titular_habitual": true },
+    "Romelu Lukaku": { "posicion": "FWD", "importancia": 0.8, "titular_habitual": true },
+    "Dries Mertens": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false },
+    "Thomas Meunier": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Axel Witsel": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Timothy Castagne": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": false },
+    "Jan Vertonghen": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": false },
+    "Zeno Debast": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false }
   },
   "Egypt": {
-    "Mohamed Salah": {
-      "posicion": "FWD",
-      "importancia": 0.9,
-      "titular_habitual": true,
-      "nota": "capitan y maxima figura de Egipto"
-    },
-    "Omar Marmoush": {
-      "posicion": "FWD",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Mohamed Elneny": {
-      "posicion": "MID",
-      "importancia": 0.68,
-      "titular_habitual": true
-    }
+    "Mohamed Salah": { "posicion": "FWD", "importancia": 0.9, "titular_habitual": true, "nota": "capitan y maxima figura de Egipto" },
+    "Omar Marmoush": { "posicion": "FWD", "importancia": 0.82, "titular_habitual": true },
+    "Mohamed Elneny": { "posicion": "MID", "importancia": 0.7, "titular_habitual": true },
+    "Mostafa Mohamed": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": false },
+    "Mahmoud Trezeguet": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false },
+    "Mohamed Abdelmonem": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": true },
+    "Mohamed Hany": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": false },
+    "Ahmed Hegazi": { "posicion": "DEF", "importancia": 0.68, "titular_habitual": false }
   },
   "Cape Verde": {
-    "Vozinha": {
-      "posicion": "GK",
-      "importancia": 0.75,
-      "titular_habitual": true,
-      "nota": "arquero mas experimentado, debut historico de Cabo Verde en Mundiales"
-    },
-    "Roberto Lopes": {
-      "posicion": "DEF",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Ryan Mendes": {
-      "posicion": "FWD",
-      "importancia": 0.75,
-      "titular_habitual": true,
-      "nota": "extremo mas experimentado"
-    },
-    "Dailon Livramento": {
-      "posicion": "FWD",
-      "importancia": 0.72,
-      "titular_habitual": true,
-      "nota": "decisivo en las eliminatorias"
-    },
-    "Jovane Cabral": {
-      "posicion": "FWD",
-      "importancia": 0.68,
-      "titular_habitual": true
-    },
-    "Garry Rodrigues": {
-      "posicion": "FWD",
-      "importancia": 0.65,
-      "titular_habitual": true
-    },
-    "Nuno da Costa": {
-      "posicion": "FWD",
-      "importancia": 0.65,
-      "titular_habitual": true,
-      "nota": "regreso a la convocatoria"
-    },
-    "Steven Moreira": {
-      "posicion": "DEF",
-      "importancia": 0.62,
-      "titular_habitual": true
-    }
+    "Vozinha": { "posicion": "GK", "importancia": 0.75, "titular_habitual": true, "nota": "arquero mas experimentado, debut historico de Cabo Verde en Mundiales" },
+    "Roberto Lopes": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": true },
+    "Ryan Mendes": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": true, "nota": "extremo mas experimentado" },
+    "Dailon Livramento": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": true, "nota": "decisivo en las eliminatorias" },
+    "Jovane Cabral": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": true },
+    "Garry Rodrigues": { "posicion": "FWD", "importancia": 0.68, "titular_habitual": true },
+    "Nuno da Costa": { "posicion": "FWD", "importancia": 0.65, "titular_habitual": true, "nota": "regreso a la convocatoria" },
+    "Steven Moreira": { "posicion": "DEF", "importancia": 0.65, "titular_habitual": true }
   },
   "Senegal": {
-    "Sadio Mane": {
-      "posicion": "FWD",
-      "importancia": 0.88,
-      "titular_habitual": true,
-      "nota": "se perdio Qatar 2022 por lesion, ahora disponible"
-    },
-    "Idrissa Gana Gueye": {
-      "posicion": "MID",
-      "importancia": 0.78,
-      "titular_habitual": true,
-      "nota": "jugador con mas partidos en la historia de Senegal (130), tercer Mundial"
-    },
-    "Ismaila Sarr": {
-      "posicion": "FWD",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Iliman Ndiaye": {
-      "posicion": "FWD",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Bamba Dieng": {
-      "posicion": "FWD",
-      "importancia": 0.68,
-      "titular_habitual": true
-    },
-    "Bara Sapoko Ndiaye": {
-      "posicion": "MID",
-      "importancia": 0.65,
-      "titular_habitual": false,
-      "nota": "joya de 18 anos del Bayern, gran sorpresa de la convocatoria"
-    }
+    "Sadio Mane": { "posicion": "FWD", "importancia": 0.88, "titular_habitual": true, "nota": "se perdio Qatar 2022 por lesion, ahora disponible" },
+    "Idrissa Gana Gueye": { "posicion": "MID", "importancia": 0.8, "titular_habitual": true, "nota": "jugador con mas partidos en la historia de Senegal (130), tercer Mundial" },
+    "Ismaila Sarr": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": true },
+    "Iliman Ndiaye": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": true },
+    "Bamba Dieng": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": true },
+    "Bara Sapoko Ndiaye": { "posicion": "MID", "importancia": 0.68, "titular_habitual": false, "nota": "joya de 18 anos del Bayern, gran sorpresa de la convocatoria" },
+    "Kalidou Koulibaly": { "posicion": "DEF", "importancia": 0.82, "titular_habitual": true },
+    "Abdou Diallo": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false }
   },
   "Ivory Coast": {
-    "Franck Kessie": {
-      "posicion": "MID",
-      "importancia": 0.82,
-      "titular_habitual": true,
-      "nota": "capitan"
-    },
-    "Evan Ndicka": {
-      "posicion": "DEF",
-      "importancia": 0.78,
-      "titular_habitual": true,
-      "nota": "pieza clave de la defensa"
-    },
-    "Amad Diallo": {
-      "posicion": "FWD",
-      "importancia": 0.78,
-      "titular_habitual": true,
-      "nota": "brillo en la ultima Copa Africana"
-    },
-    "Wilfried Singo": {
-      "posicion": "DEF",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Ousmane Diomande": {
-      "posicion": "DEF",
-      "importancia": 0.75,
-      "titular_habitual": true
-    },
-    "Yahia Fofana": {
-      "posicion": "GK",
-      "importancia": 0.7,
-      "titular_habitual": true
-    },
-    "Nicolas Pepe": {
-      "posicion": "FWD",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Sebastien Haller": {
-      "posicion": "FWD",
-      "importancia": 0.75,
-      "titular_habitual": true,
-      "nota": "autor del gol decisivo en la final de la Copa Africana 2024"
-    }
+    "Franck Kessie": { "posicion": "MID", "importancia": 0.85, "titular_habitual": true, "nota": "capitan" },
+    "Evan Ndicka": { "posicion": "DEF", "importancia": 0.8, "titular_habitual": true, "nota": "pieza clave de la defensa" },
+    "Amad Diallo": { "posicion": "FWD", "importancia": 0.82, "titular_habitual": true, "nota": "brillo en la ultima Copa Africana" },
+    "Sebastien Haller": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": true, "nota": "autor del gol decisivo en la final de la Copa Africana 2024" },
+    "Wilfried Singo": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": true },
+    "Ousmane Diomande": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": true },
+    "Yahia Fofana": { "posicion": "GK", "importancia": 0.72, "titular_habitual": true },
+    "Nicolas Pepe": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": true },
+    "Simon Adingra": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false },
+    "Christian Kouame": { "posicion": "FWD", "importancia": 0.65, "titular_habitual": false }
   },
-  "South Korea": {
-    "Lee Kang-in": {
-      "posicion": "MID",
-      "importancia": 0.82,
-      "titular_habitual": true
-    },
-    "Hwang Hee-chan": {
-      "posicion": "FWD",
-      "importancia": 0.78,
-      "titular_habitual": true
-    },
-    "Hwang In-beom": {
-      "posicion": "MID",
-      "importancia": 0.72,
-      "titular_habitual": true
-    },
-    "Son Heung-min": {
-      "posicion": "FWD",
-      "importancia": 0.8,
-      "titular_habitual": false,
-      "nota": "NO convocado para el Mundial 2026, estrella historica del equipo"
-    }
+  "Korea Republic": {
+    "Lee Kang-in": { "posicion": "MID", "importancia": 0.85, "titular_habitual": true },
+    "Hwang Hee-chan": { "posicion": "FWD", "importancia": 0.8, "titular_habitual": true },
+    "Hwang In-beom": { "posicion": "MID", "importancia": 0.75, "titular_habitual": true },
+    "Son Heung-min": { "posicion": "FWD", "importancia": 0.8, "titular_habitual": false, "nota": "NO convocado para el Mundial 2026, estrella historica del equipo" },
+    "Kim Min-jae": { "posicion": "DEF", "importancia": 0.82, "titular_habitual": true },
+    "Lee Jae-sung": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Paik Seung-ho": { "posicion": "MID", "importancia": 0.68, "titular_habitual": false },
+    "Jeong Woo-yeong": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false },
+    "Cho Gue-sung": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": false },
+    "Kim Seung-gyu": { "posicion": "GK", "importancia": 0.7, "titular_habitual": true }
+  },
+  "Portugal": {
+    "Diogo Costa": { "posicion": "GK", "importancia": 0.8, "titular_habitual": true },
+    "Rui Patricio": { "posicion": "GK", "importancia": 0.65, "titular_habitual": false },
+    "Jose Sa": { "posicion": "GK", "importancia": 0.6, "titular_habitual": false },
+    "Ruben Dias": { "posicion": "DEF", "importancia": 0.88, "titular_habitual": true },
+    "Joao Cancelo": { "posicion": "DEF", "importancia": 0.8, "titular_habitual": true },
+    "Nuno Mendes": { "posicion": "DEF", "importancia": 0.78, "titular_habitual": true },
+    "Pepe": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": false },
+    "Raphael Guerreiro": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Antonio Silva": { "posicion": "DEF", "importancia": 0.75, "titular_habitual": false },
+    "Danilo Pereira": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Bruno Fernandes": { "posicion": "MID", "importancia": 0.85, "titular_habitual": true },
+    "Bernardo Silva": { "posicion": "MID", "importancia": 0.82, "titular_habitual": true },
+    "Joao Palhinha": { "posicion": "MID", "importancia": 0.78, "titular_habitual": false },
+    "Ruben Neves": { "posicion": "MID", "importancia": 0.72, "titular_habitual": false },
+    "Matheus Nunes": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Vitinha": { "posicion": "MID", "importancia": 0.75, "titular_habitual": false },
+    "Cristiano Ronaldo": { "posicion": "FWD", "importancia": 0.85, "titular_habitual": true },
+    "Joao Felix": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": false },
+    "Diogo Jota": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": false },
+    "Rafael Leao": { "posicion": "FWD", "importancia": 0.8, "titular_habitual": true },
+    "Goncalo Ramos": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": false },
+    "Pedro Neto": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false }
+  },
+  "Algeria": {
+    "Riyad Mahrez": { "posicion": "FWD", "importancia": 0.8, "titular_habitual": true },
+    "Sofiane Feghouli": { "posicion": "MID", "importancia": 0.7, "titular_habitual": true },
+    "Yacine Brahimi": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": false },
+    "Aissa Mandi": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": true },
+    "Ramy Bensebaini": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": false },
+    "Ismael Bennacer": { "posicion": "MID", "importancia": 0.75, "titular_habitual": false },
+    "Rayan Ait Nouri": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false },
+    "Mohamed Amoura": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false }
+  },
+  "Norway": {
+    "Erling Haaland": { "posicion": "FWD", "importancia": 0.95, "titular_habitual": true },
+    "Martin Odegaard": { "posicion": "MID", "importancia": 0.88, "titular_habitual": true },
+    "Alexander Sorloth": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": true },
+    "Oscar Bobb": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": false },
+    "Sander Berge": { "posicion": "MID", "importancia": 0.7, "titular_habitual": false },
+    "Leo Ostigard": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": true }
+  },
+  "Sweden": {
+    "Victor Lindelof": { "posicion": "DEF", "importancia": 0.78, "titular_habitual": true },
+    "Alexander Isak": { "posicion": "FWD", "importancia": 0.85, "titular_habitual": true },
+    "Dejan Kulusevski": { "posicion": "FWD", "importancia": 0.82, "titular_habitual": true },
+    "Emil Forsberg": { "posicion": "MID", "importancia": 0.75, "titular_habitual": false },
+    "Robin Olsen": { "posicion": "GK", "importancia": 0.7, "titular_habitual": true }
+  },
+  "Switzerland": {
+    "Granit Xhaka": { "posicion": "MID", "importancia": 0.85, "titular_habitual": true },
+    "Xherdan Shaqiri": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false },
+    "Manuel Akanji": { "posicion": "DEF", "importancia": 0.8, "titular_habitual": true },
+    "Yann Sommer": { "posicion": "GK", "importancia": 0.75, "titular_habitual": true },
+    "Breel Embolo": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": false },
+    "Fabian Schar": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": false }
+  },
+  "Scotland": {
+    "Andrew Robertson": { "posicion": "DEF", "importancia": 0.85, "titular_habitual": true },
+    "John McGinn": { "posicion": "MID", "importancia": 0.82, "titular_habitual": true },
+    "Scott McTominay": { "posicion": "MID", "importancia": 0.78, "titular_habitual": false },
+    "Che Adams": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": true }
+  },
+  "Paraguay": {
+    "Miguel Almiron": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": true },
+    "Diego Gomez": { "posicion": "MID", "importancia": 0.72, "titular_habitual": true }
+  },
+  "Bosnia": {
+    "Edin Dzeko": { "posicion": "FWD", "importancia": 0.82, "titular_habitual": true },
+    "Miralem Pjanic": { "posicion": "MID", "importancia": 0.78, "titular_habitual": true }
+  },
+  "Czech Republic": {
+    "Tomas Soucek": { "posicion": "MID", "importancia": 0.8, "titular_habitual": true },
+    "Adam Hlozek": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": false }
+  },
+  "Congo DR": {
+    "Yoane Wissa": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": true },
+    "Chancel Mbemba": { "posicion": "DEF", "importancia": 0.78, "titular_habitual": true }
+  },
+  "Iraq": {
+    "Ali Al-Hamadi": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": true }
+  },
+  "Jordan": {
+    "Musa Al-Tamari": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": true }
+  },
+  "Uzbekistan": {
+    "Eldor Shomurodov": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": true }
+  },
+  "New Zealand": {
+    "Chris Wood": { "posicion": "FWD", "importancia": 0.78, "titular_habitual": true }
+  },
+  "Austria": {
+    "David Alaba": { "posicion": "DEF", "importancia": 0.85, "titular_habitual": true },
+    "Marcel Sabitzer": { "posicion": "MID", "importancia": 0.8, "titular_habitual": true }
+  },
+  "Ghana": {
+    "Thomas Partey": { "posicion": "MID", "importancia": 0.82, "titular_habitual": true },
+    "Mohammed Kudus": { "posicion": "FWD", "importancia": 0.8, "titular_habitual": true }
+  },
+  "Panama": {
+    "Michael Murillo": { "posicion": "DEF", "importancia": 0.72, "titular_habitual": true }
+  },
+  "Curazao": {
+    "Cuco Martina": { "posicion": "DEF", "importancia": 0.7, "titular_habitual": true }
+  },
+  "Haiti": {
+    "Duckens Nazon": { "posicion": "FWD", "importancia": 0.7, "titular_habitual": true }
+  },
+  "Tunisia": {
+    "Wahbi Khazri": { "posicion": "FWD", "importancia": 0.75, "titular_habitual": true }
+  },
+  "South Africa": {
+    "Percy Tau": { "posicion": "FWD", "importancia": 0.72, "titular_habitual": true }
   }
 }

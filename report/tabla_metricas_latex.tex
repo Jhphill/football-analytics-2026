@@ -1,0 +1,23 @@
+\begin{table}[h]
+\centering
+\caption{Comparativa de modelos por mercado — Plataforma Football Analytics 2026}
+\label{tab:metricas_modelos}
+\begin{tabular}{lrrrrrr}
+\hline
+\textbf{Mercado} & \textbf{N train} & \textbf{Acc. ingenuo} & \textbf{Acc. XGBoost} & \textbf{AUC} & \textbf{Log-loss} & \textbf{Dashboard} \\
+\hline
+1X2 (todo dataset) & 37,202 & 0.575 & 0.580 & -- & 0.9009 & \checkmark \\
+1X2 (solo neutrales) & 8,798 & 0.523 & 0.526 & -- & 0.9678 & \checkmark \\
+Over/Under 2.5 & 37,202 & 0.469 & 0.571 & 0.581 & 0.6778 & \checkmark \\
+BTTS & 37,202 & 0.577 & 0.579 & 0.572 & 0.6734 & \checkmark \\
+Tarjetas O/U 3.5 & 751 & 0.549 & 0.559 & 0.593 & 0.6737 & \checkmark \\
+Tarjeta Roja & 751 & -- & -- & -- & -- & \textit{baseline} \\
+\hline
+\end{tabular}
+\begin{tablenotes}
+\small
+\item AUC y Log-loss calculados sobre el conjunto de test (2018--2025) con split temporal.
+\item Tarjetas O/U 3.5 y Tarjeta Roja: validación cruzada 5-fold (dataset reducido, n=751).
+\item Tarjeta Roja: modelo no supera umbral de utilidad (AUC $<$ 0.58); se muestra baseline empírico 10.8\%.
+\end{tablenotes}
+\end{table}
