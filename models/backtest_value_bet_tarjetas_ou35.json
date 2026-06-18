@@ -1,0 +1,31 @@
+{
+  "mercado_backtest": "tarjetas_ou35",
+  "n_partidos_evaluados": 151,
+  "margen_minimo_value_bet": 0.08,
+  "kelly_fraccion": 0.25,
+  "n_value_bets_detectados": 65,
+  "pct_partidos_con_value_bet": 0.4304635761589404,
+  "tasa_acierto": 0.4,
+  "IMPORTANTE_tasa_acierto_es_condicional": "Esta tasa de acierto se mide SOLO sobre los partidos donde el value bet detector encontró value (el 43.0% del total), NO es el accuracy general del modelo de producción (ver métricas de Semana 3 / modelos_dashboard.json para esa cifra). El detector selecciona por diseño los casos donde el modelo discrepa más fuerte del mercado simulado, y ahí la ventaja informativa del modelo (features adicionales sobre Elo solo) se concentra. No presentar este número como \"accuracy del modelo\" en el informe.",
+  "auc_modelo_produccion": 0.5651162790697674,
+  "mercado_simulado": {
+    "metodo": "Regresión logística entrenada con: fav_dog_elo_diff -- independiente del XGBoost de producción.",
+    "columnas_usadas": [
+      "fav_dog_elo_diff"
+    ],
+    "auc_mercado_simulado": 0.5330948121645795,
+    "ruido_adicional_sd": 0.06,
+    "margen_casa": 1.06
+  },
+  "metodologia_oficial_roi": "sobre_capital_total_apostado",
+  "resultado_oficial": {
+    "bankroll_referencia_usado_para_sizing": 100.0,
+    "ganancia_perdida_acumulada": 57.19590053165072,
+    "capital_total_apostado": 403.17,
+    "roi_pct_sobre_capital_apostado": 14.186546749919568
+  },
+  "roi_diagnostico_bankroll_fijo_NO_OFICIAL": 57.19590053165072,
+  "monto_promedio_apostado": 6.202615384615385,
+  "cuota_promedio_value_bets": 2.6617641289853973,
+  "ADVERTENCIA_METODOLOGICA": "Backtest con CUOTAS SIMULADAS (mercado = logística de solo Elo + ruido + margen de casa ~6%), NO cuotas históricas reales de 1xbet (no disponibles públicamente). Resultado ilustrativo del MECANISMO del detector, no una proyección de rentabilidad real."
+}

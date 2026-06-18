@@ -1,0 +1,30 @@
+{
+  "over_under_25": {
+    "dog_form_conceded": 0.17704515159130096,
+    "fav_form_scored": 0.1075604036450386,
+    "fav_dog_elo_diff": 0.07753979414701462,
+    "dog_form_scored": 0.07544411718845367,
+    "fav_form_conceded": 0.0632871761918068
+  },
+  "btts": {
+    "fav_dog_elo_diff": 0.10943872481584549,
+    "dog_form_scored": 0.08768310397863388,
+    "fav_form_conceded": 0.07292365282773972,
+    "fav_form_scored": 0.07289447635412216,
+    "dog_form_conceded": 0.06111900508403778
+  },
+  "tarjetas_ou35": {
+    "fav_dog_elo_diff": 0.13617676496505737,
+    "dog_dias_descanso": 0.12821540236473083,
+    "dog_avg_passing": 0.09307622909545898,
+    "dog_avg_defense": 0.0845680832862854,
+    "fav_elo": 0.0817926675081253
+  },
+  "1x2": {
+    "fav_dog_elo_diff": 0.1831301748752594,
+    "dog_form_conceded": 0.06322858482599258,
+    "dog_max_overall": 0.0368785634636879,
+    "dog_elo": 0.03633837029337883,
+    "fav_form_scored": 0.02625488117337227
+  }
+}

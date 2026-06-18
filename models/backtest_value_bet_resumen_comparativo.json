@@ -1,0 +1,29 @@
+[
+  {
+    "mercado": "over_under_25",
+    "n_value_bets": 287,
+    "pct_value_bets": "4.5%",
+    "tasa_acierto": "65.2%",
+    "roi_oficial": "+23.81%",
+    "auc_modelo": "0.5810",
+    "auc_mercado_simulado": "0.5754"
+  },
+  {
+    "mercado": "btts",
+    "n_value_bets": 388,
+    "pct_value_bets": "6.0%",
+    "tasa_acierto": "39.9%",
+    "roi_oficial": "+16.33%",
+    "auc_modelo": "0.5716",
+    "auc_mercado_simulado": "0.5636"
+  },
+  {
+    "mercado": "tarjetas_ou35",
+    "n_value_bets": 65,
+    "pct_value_bets": "43.0%",
+    "tasa_acierto": "40.0%",
+    "roi_oficial": "+14.19%",
+    "auc_modelo": "0.5651",
+    "auc_mercado_simulado": "0.5331"
+  }
+]
